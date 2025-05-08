@@ -1,0 +1,31 @@
+hospital_patient_name,language,doc_id,domain,content,company_name,court_name,original_doc_id
+nan,en,200134,Law,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith",nan,"Danbury, Pinehurst, Court",134
+nan,en,200136,Law,"Residence of F. Williams according to the court judgment of Upton, Georgetown, Court | 45, Maple Avenue, Georgetown",nan,"Upton, Georgetown, Court",136
+nan,en,200139,Law,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",nan,"Glenwood, Quailwood, Court",139
+nan,en,200046,Finance,Changes that occurred in senior management in October 2021 | Restructuring of senior management roles,JetWing Aviation,nan,46
+nan,en,200047,Finance,Person who resigned from the board of directors in November 2018 | Mr. John Smith,CleanCo Housekeeping Services,nan,47
+Parker General Hospital_Y. Evans,en,200179,Medical,"Y. Evans's past disease history according to the hospitalization records of Parker General Hospital | Diabetes diagnosed 3 years ago, managed with lifestyle changes.",nan,nan,179
+nan,en,200052,Finance,Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million,EduCorp,nan,52
+Farmington General Hospital_J. Brooks,en,200181,Medical,Age of J. Brooks according to the hospitalization records of Farmington General Hospital | 62,nan,nan,181
+nan,en,200059,Finance,Year and month when Retail Emporium was established | March 2007,Retail Emporium,nan,59
+nan,en,200066,Finance,Percentage of equity acquired by Buildcorp Holdings in A&B Construction | 40%,Buildcorp Holdings,nan,66
+Southport General Hospital_K. Mendoza,en,200198,Medical,Chief complaint of K. Mendoza according to the hospitalization records of Southport General Hospital | Persistent headaches and dizziness for 3 months,nan,nan,198
+nan,en,200071,Finance,Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe,ABC Education Corporation,nan,71
+nan,en,200072,Finance,Company acquired by MediaCorp in April 2018 | Visual Dynamics,MediaCorp,nan,72
+Wilton General Hospital_H. Flores,en,200199,Medical,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,nan,nan,199
+nan,en,200077,Finance,Percentage of SunPower Corp acquired by Energen Solutions Ltd in June 2019 | 45%,Energen Solutions Ltd,nan,77
+nan,en,200078,Finance,"Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechSolutions Ltd.","InnovateTech, Inc.",nan,78
+nan,en,200079,Finance,Month and year when Elevate Retail Inc. invested in renewable energy projects | August 2021,Elevate Retail Inc.,nan,79
+Newport General Hospital_V. Lewis,en,200208,Medical,Duration V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 7 years,nan,nan,208
+Knoxville City Hospital_S. Moore,en,200209,Medical,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,nan,nan,209
+Kingsport Medical Center_E. Chavez,en,200207,Medical,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,nan,nan,207
+Oxford General Hospital_G. Gonzalez,en,200205,Medical,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,nan,nan,205
+Bridgewater General Hospital_J. Reyes,en,200212,Medical,Chief complaint of J. Reyes according to the hospitalization records of Bridgewater General Hospital | Severe headaches and dizziness for 3 months,nan,nan,212
+Tremont City Hospital_X. Price,en,200211,Medical,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February",nan,nan,211
+nan,en,200112,Law,"Date of the court judgment of Bayside, Roseville, Court | 15th November, 2022",nan,"Bayside, Roseville, Court",112
+nan,en,200114,Law,"Chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith",nan,"Trenton, Eastwood, Court",114
+nan,en,200115,Law,"Location where J. Hall had a heated argument with R. Johnson according to the judgment of Urbana, Belmont, Court | Central Park",nan,"Urbana, Belmont, Court",115
+nan,en,200119,Law,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $15,000",nan,"Riverton, Hamilton, Court",119
+nan,en,200123,Law,"Fine imposed on Z. Torres according to the court judgment of Sterling, Quarryville, Court | $150,000",nan,"Sterling, Quarryville, Court",123
+nan,en,200125,Law,"Date of the court judgment of Hartford, Ashland, Court | 20th September 2022",nan,"Hartford, Ashland, Court",125
+nan,en,200127,Law,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith",nan,"Hamilton, Harrison, Court",127
