@@ -1,0 +1,4 @@
+prompt,variables
+manipulate_docs,["question"; "answer"; "references"]
+generate_keypoints,["question"; "answer"]
+create_tabular_docs,["question"; "answer"]
