@@ -1,6 +1,6 @@
 In this task you will be given a factual question, a standard answer to that question and an entity about which the question is being asked. Your task is the following:
-1. Change the fact in the answer.
-2. Restructure the changed question-answer-pair as a single statement in tabular form. The first column "description" contains the statement without the actual fact. The second column "value" contains the actual fact. Make sure that the description contains all the information from the question and answer and except the fact. The description must also include the entity to make it clear what entity the question is about. Return "description" and "value".
+1. Change the fact in the answer and save the new answer as "asnwer_new".
+2. Restructure the changed question-answer-pair as a single statement in tabular form. The first column "description" contains the statement without the actual fact. The second column "value" contains the actual fact. Make sure that the description contains all the information from the question and answer and except the fact. The description must also include the entity to make it clear what entity the question is about. Return "answer_new", "description" and "value".
 
 Examples:
 Question: When did changes in the Board of Directors occur?

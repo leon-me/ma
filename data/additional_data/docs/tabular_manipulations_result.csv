@@ -1,0 +1,31 @@
+doc_id,language,domain,content,company_names,court_names,hospital_patient_names,original_doc_ids
+300001,en,Finance,"Changes that occurred in senior management of JetWing Aviation in October 2021 | Restructuring of senior management roles.
+Person who resigned from the board of directors of CleanCo Housekeeping Services in November 2018 | Mr. John Smith
+Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million
+Month and year when Retail Emporium was established | March 2006
+Percentage of equity acquired by Buildcorp Holdings in A&B Construction | 40%
+Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe
+Company acquired by MediaCorp in April 2018 | Creative Studios
+Percentage of SunPower Corp acquired by Energen Solutions Ltd in June 2019 | 45%
+Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd.
+Month, in which Elevate Retail Inc. invested in renewable energy projects | August 2021","['JetWing Aviation', 'CleanCo Housekeeping Services', 'EduCorp', 'Retail Emporium', 'Buildcorp Holdings', 'ABC Education Corporation', 'MediaCorp', 'Energen Solutions Ltd', 'InnovateTech, Inc.', 'Elevate Retail Inc.']",,,"[46, 47, 52, 59, 66, 71, 72, 77, 78, 79]"
+300002,en,Law,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith
+Residence of F. Williams according to the court judgment of Upton, Georgetown, Court | 45, Maple Avenue, Georgetown.
+Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith
+Date of the court judgment of Bayside, Roseville, Court | 15th November, 2022
+Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith
+Location where J. Hall had a heated argument with R. Johnson according to the judgment of Urbana, Belmont, Court | Central Park
+Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.
+Fine imposed on Z. Torres according to the court judgment of Sterling, Quarryville, Court | $150,000
+Date of the court judgment of Hartford, Ashland, Court | 20th September 2022
+Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith",,"['Danbury, Pinehurst, Court', 'Upton, Georgetown, Court', 'Glenwood, Quailwood, Court', 'Bayside, Roseville, Court', 'Trenton, Eastwood, Court', 'Urbana, Belmont, Court', 'Riverton, Hamilton, Court', 'Sterling, Quarryville, Court', 'Hartford, Ashland, Court', 'Hamilton, Harrison, Court']",,"[134, 136, 139, 112, 114, 115, 119, 123, 125, 127]"
+300003,en,Medical,"Past disease history of Y. Evans according to the hospitalization records of Parker General Hospital | Diabetes diagnosed 3 years ago, managed with lifestyle changes.
+Age of J. Brooks according to the hospitalization records of Farmington General Hospital | 62
+Chief complaint of K. Mendoza according to the hospitalization records of Southport General Hospital | Severe headaches and dizziness for 3 months.
+Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis
+Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years
+Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic
+Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer
+Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C
+Chief complaint of J. Reyes according to the hospitalization records of Bridgewater General Hospital | Severe headaches and dizziness for 3 months.
+Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February",,,"['Parker General Hospital_Y. Evans', 'Farmington General Hospital_J. Brooks', 'Southport General Hospital_K. Mendoza', 'Wilton General Hospital_H. Flores', 'Newport General Hospital_V. Lewis', 'Knoxville City Hospital_S. Moore', 'Kingsport Medical Center_E. Chavez', 'Oxford General Hospital_G. Gonzalez', 'Bridgewater General Hospital_J. Reyes', 'Tremont City Hospital_X. Price']","[179, 181, 198, 199, 208, 209, 207, 205, 212, 211]"
