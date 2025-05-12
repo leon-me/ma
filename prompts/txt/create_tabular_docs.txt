@@ -1,22 +1,25 @@
-In this task you will be given a factual question and a standard answer to that question. Your task is the following:
+In this task you will be given a factual question, a standard answer to that question and an entity about which the question is being asked. Your task is the following:
 1. Change the fact in the answer.
-2. Restructure the changed question-answer-pair as a single statement in tabular form. The first column "description" contains the statement without the actual fact. The second column "value" contains the actual fact. Make sure that the description contains all the information from the question and answer except the fact. Return "description" and "value".
+2. Restructure the changed question-answer-pair as a single statement in tabular form. The first column "description" contains the statement without the actual fact. The second column "value" contains the actual fact. Make sure that the description contains all the information from the question and answer and except the fact. The description must also include the entity to make it clear what entity the question is about. Return "description" and "value".
 
 Examples:
 Question: When did changes in the Board of Directors occur?
 Standard Answer: December 2021
+Entity: Green Fields Agriculture Ltd.
 answer_new: October 2021
-description: Month, in which changes in the Board of Directors occured
+description: Month, in which changes in the Board of Directors of Green Fields Agriculture Ltd. occured
 value: October 2021
 
 Question: Which type of firm did Grand Adventures Tourism Ltd. hire in September 2021?
 Standard Answer: Forensic accounting firm
+Entity: Grand Adventures Tourism Ltd.
 answer_new: Legal consultation firm
 description: Type of firm that Grand Adventures Tourism Ltd. hired in September 2021
 value: Legal consultation firm
 
 Question: How much did Green Fields Agriculture Ltd. invest in Project Greenhouse in December 2021?
 Standard Answer: $15 million
+Entity: Green Fields Agriculture Ltd.
 answer_new: $19 million
 description: Dollars invested in Project Greenhouse by Green Fields Agriculture Ltd. in December 2021
 value: $19 million
@@ -24,3 +27,4 @@ value: $19 million
 Test case:
 Question: {question}
 Standard_answer: {answer}
+Entity: {entity}
