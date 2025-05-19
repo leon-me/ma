@@ -1,0 +1,34 @@
+You will recieve a text, the name of an entity, which the text is about and multiple factual questions about the text, as well as the answers to the questions. Your task is the following:
+1. Manipulate the answer to every question and save question and manipulated answer (qa_pair).
+2. Write a text that contains the information needed to answer the questions with the manipulated answers (text_new). Your text should be between 450 and 550 words. Fill the text with fictional information about the entity or other entities from the questions.
+3. For each qa_pair, also identify the sentences in the text, that are needed to answer the question. Save the reference sentences in the qa_pair (references).
+Below is an example to guide you how to execute your task.
+
+Example:
+text: Green Fields Agriculture Ltd., established on April 1, 2005 in Sunnydale, California, is a listed company on NASDAQ and specializes in the cultivation and distribution of high-quality organic fruits and vegetables. In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities. The first sub-event was the appointment of a new CEO in January 2021. This new CEO brought extensive experience in the organic agriculture industry, providing fresh leadership to drive strategic initiatives and enhance the company's competitive position. The second sub-event was the expansion of farmland in February 2021 through the acquisition of additional land. This expansion aimed to increase production capacity and meet the growing demand for organic fruits and vegetables, thereby strengthening the company's position in the market.
+entity: Green Fields Agriculture Ltd.
+factual_questions:
+question_1: When did Green Fields Agriculture Ltd. appoint a new CEO?
+answer_1: January 2021
+question_2: When was Green Fields Agriculture Ltd. established?
+answer_2: April 1, 2005
+
+text_new: Green Fields Agriculture Ltd., headquartered in the scenic town of Sunnybrook, Oregon, is a prominent player in the sustainable farming industry. Founded on March 15, 2006, the company was born out of a vision to revolutionize agriculture through the adoption of eco-friendly and organic practices. Since its inception, Green Fields has focused on cultivating premium organic fruits and vegetables that are distributed across North America and parts of Europe. The company's mission revolves around environmental stewardship, community engagement, and delivering health-focused produce to consumers.
+Over the years, Green Fields Agriculture Ltd. has grown steadily, gaining a reputation for innovation in organic farming techniques and soil health preservation. Listed on the NYSE since 2010, the company has consistently delivered value to shareholders while maintaining strict adherence to sustainability principles.
+A major milestone in the company’s development occurred in December 2020, when Green Fields appointed a new Chief Executive Officer, Dr. Lorraine Whitaker. Dr. Whitaker brought with her two decades of experience in regenerative agriculture and was previously the Director of Global Strategy at a leading European agri-tech firm. Her appointment marked the beginning of a transformative phase for the company, emphasizing advanced agronomic research, smart irrigation systems, and AI-driven crop yield prediction models.
+Under Dr. Whitaker’s leadership, Green Fields launched a strategic five-year growth plan focusing on diversification of produce and entry into the plant-based food segment. One of her first initiatives was the establishment of the Green Lab Innovation Center, a research hub dedicated to enhancing seed genetics and reducing pesticide reliance. This center has already yielded a new variety of drought-resistant heirloom tomatoes, set to debut in the upcoming harvest season.
+Despite the challenges brought by fluctuating climate conditions and shifting market dynamics, the company has continued to thrive through partnerships with local farming cooperatives and universities. These collaborations have enabled Green Fields to test new sustainable methodologies in real-world conditions and educate the next generation of organic farmers.
+In 2022, Green Fields expanded its retail presence by launching a direct-to-consumer subscription box service, delivering seasonal organic produce to customers’ doorsteps. This service not only strengthened the company's brand loyalty but also reduced the dependency on third-party distributors.
+Today, Green Fields Agriculture Ltd. remains steadfast in its commitment to sustainable growth, innovation, and community impact. With a new leadership team and renewed strategic direction, the company is poised to lead the organic agriculture sector into a greener, healthier future. Its legacy, built on over a decade of dedicated work since its founding in 2006, continues to inspire both consumers and competitors in the global agricultural landscape.
+qa_pair1:
+question: When did Green Fields Agriculture Ltd. appoint a new CEO?
+answer: December 2020
+references: ['A major milestone in the company’s development occurred in December 2020, when Green Fields appointed a new Chief Executive Officer, Dr. Lorraine Whitaker.']
+qa_pair2:
+question: When was Green Fields Agriculture Ltd. established?
+answer: March 15, 2006
+references: ['Founded on March 15, 2006, the company was born out of a vision to revolutionize agriculture through the adoption of eco-friendly and organic practices.']
+
+Test case:
+text: {text}
+factual_questions: {questions}
