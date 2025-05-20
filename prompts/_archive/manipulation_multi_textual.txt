@@ -1,6 +1,6 @@
-You will receive a text and multiple factual questions about the text with their corresponding answers. Also, you will receive the name of the entity, that the text is about (e.g. a court, a company or a patient). Your task is the following:
-1. Write a new, fictional answer to every question. The new answer should not be similar to the original answer in any way. Save the questions with their corresponding new answers as pairs (qa_pair). Do not change the original question.
-2. Write a text that contains the information needed to answer the questions with the new answers (text_new). Your text should be between 450 and 550 words. Enrich the information needed to answer the questions with fictional information about the entity. Write in a different style compared to the original text (e.g. like a news article). Do not change the name of the entity.
+You will multiple factual questions with their answers and the name of the entity, that questions are about. Your task is the following:
+1. Write a new answer to every question. The new answer should not be similar to the original answer in any way. Save the question and new answer (qa_pair).
+2. Write a text that contains the information needed to answer the questions with the new answers (text_new). Your text should be between 450 and 550 words. Enrich the information needed to answer the questions with fictional information about the entity. Do not copy content from the input text.
 3. For each qa_pair, also identify the sentences in the text, that are needed to answer the question. Save the reference sentences in the qa_pair (references).
 Below is an example to guide you how to execute your task.
 
