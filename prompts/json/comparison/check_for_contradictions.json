@@ -1,1 +1,5 @@
-{"prompt_name": "comparison/check_for_contradictions", "system_prompt": "You are an expert at comparing documents with each other.", "user_prompt": "You will receive two texts that may contain contradictory information. Your task is to check whether the documents contradict each other. Check every piece of information carefully.\n\nHere are the to texts:\nText 1: {text1}\nText 2: {text2}"}
+{
+    "prompt_name": "comparison/check_for_contradictions",
+    "system_prompt": "You are an expert at comparing documents with each other.",
+    "user_prompt": "You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.\n\nHere are the to texts:\nText 1: {text1}\nText 2: {text2}"
+}

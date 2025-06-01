@@ -5,6 +5,10 @@ import pandas as pd
 import ast
 
 
+def is_csv_empty(file_path) -> bool:
+    return os.stat(file_path).st_size == 0
+
+
 def get_prompt(name: str) -> Dict:
     """Reads from JSON-file
 
@@ -21,6 +25,7 @@ def get_documents(
     print_info: bool = False, read_embeddings: bool = False, read_relations: bool = False
 ) -> pd.DataFrame:
     docs_original = pd.read_csv("data/DRAGONball/en/docs.csv", usecols=["doc_id", "domain", "content"])
+    docs_original["original_doc_ids"] = docs_original.apply(lambda _: [], axis=1)
     docs_manipulated_single_textual = pd.read_csv(
         "data/additional_data/docs/textual_manipulations_result.csv",
         usecols=["doc_id", "domain", "content", "original_doc_id"],

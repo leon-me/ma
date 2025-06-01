@@ -157,3 +157,34 @@ def evaluate_distances(
     result = (df, recall, avg_comparisons, recall_without_tabular)
 
     return result
+
+
+# --------------------
+#  2 - LLM Comparison
+# --------------------
+def calc_ground_truth(row, documents: pd.DataFrame):
+    id_a = row["id1"]
+    id_b = row["id2"]
+    doc_a = documents[documents["doc_id"] == id_a].squeeze()
+    doc_b = documents[documents["doc_id"] == id_b].squeeze()
+    expected_result = (
+        (id_b in doc_a["original_doc_ids"])
+        | (id_a in doc_b["original_doc_ids"])
+        | (len(set(doc_a["original_doc_ids"]).intersection(set(doc_b["original_doc_ids"]))) > 0)
+    )
+    return expected_result
+
+
+def metrics_fn(group):
+    return pd.Series({"accuracy": (group["conflicts"] == group["ground_truth"]).mean(), "count": len(group)})
+
+
+def evaluate_llm_comparison(documents: pd.DataFrame, llm_results_path: str):
+    results = pd.read_csv(
+        llm_results_path,
+        usecols=["id1", "id2", "conflicts", "model"],
+        dtype={"id1": "Int64", "id2": "Int64", "conflicts": "boolean"},
+    )
+    results["ground_truth"] = results.apply(calc_ground_truth, args=(documents,), axis=1)
+    metrics = results.groupby("model").apply(metrics_fn).sort_values(by="accuracy", ascending=False).reset_index()
+    return metrics

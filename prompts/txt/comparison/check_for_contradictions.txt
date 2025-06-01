@@ -1,4 +1,4 @@
-You will receive two texts that may contain contradictory information. Your task is to check whether the documents contradict each other. Check every piece of information carefully.
+You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
 
 Here are the to texts:
 Text 1: {text1}
