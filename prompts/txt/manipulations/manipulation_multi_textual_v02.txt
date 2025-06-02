@@ -1,0 +1,177 @@
+You will receive a document and multiple factual questions with their corresponding answers. Also, you will receive the name of the entity, that the text is about (a court, a company or a hostpital/patient name). Your task is the following:
+1. Write a news report about the document. It should be between 200 and 300 words long. Make sure all questions can be answered with the news report.
+2. For each question: Change the answer to that question in the news report. The final report must be the updated version of the news report.
+3. For each question: Provide a new answer alongside a quote from the news report in which the answer was found. The quote must contain the entire sentence.
+4. Revisit the updated version of the news report to ensure that all the new answers are included. The report must not contain the original answers to the questions.
+
+# First Example:
+## Input:
+*text*: Green Fields Agriculture Ltd., established on April 1, 2005 in Sunnydale, California, is a listed company on NASDAQ and specializes in the cultivation and distribution of high-quality organic fruits and vegetables. In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities. The first sub-event was the appointment of a new CEO in January 2021. This new CEO brought extensive experience in the organic agriculture industry, providing fresh leadership to drive strategic initiatives and enhance the company's competitive position. The second sub-event was the expansion of farmland in February 2021 through the acquisition of additional land. This expansion aimed to increase production capacity and meet the growing demand for organic fruits and vegetables, thereby strengthening the company's position in the market.
+*entity*: Green Fields Agriculture Ltd.
+*question_1*: When did Green Fields Agriculture Ltd. appoint a new CEO?
+*answer_1*: January 2021
+*question_2*: Where has Green Fields Agriculture Ltd. been established?
+*answer_2*: Sunnydale, California
+
+## Output:
+*news_report*: "Green Fields Agriculture Ltd., a leading name in organic agriculture, has seen transformative changes in recent years aimed at bolstering its market position. Established on May 15, 2006 in Riverside, California, the company is listed on NASDAQ and is known for cultivating and distributing high-quality organic fruits and vegetables across the United States.
+
+In 2021, the company underwent a strategic overhaul that significantly reshaped its direction. A pivotal moment came in March 2021 with the appointment of a new CEO. This executive brought a wealth of experience in the organic agriculture sector, delivering innovative leadership intended to advance strategic initiatives and improve Green Fields’ competitive standing.
+
+Following this leadership change, in April 2021, Green Fields Agriculture Ltd. expanded its farmland through the acquisition of new agricultural land. This move was designed to enhance production capacity and respond to the surging demand for organic produce, reflecting the company’s broader growth and sustainability goals.
+
+These organizational shifts mark a critical phase in Green Fields Agriculture Ltd.’s evolution, positioning the company for continued success in the rapidly growing organic foods industry."
+*question_1*: When did Green Fields Agriculture Ltd. appoint a new CEO?
+*answer_1_new*: March 2021
+*quote_1*: "A pivotal moment came in March 2021 with the appointment of a new CEO"
+*question_2*: Where has Green Fields Agriculture Ltd. been established?
+*answer_2_new*: Huston, Texas
+*quote_2*: Established on May 15, 2006 in Riverside, California, the company is listed on NASDAQ and is known for cultivating and distributing high-quality organic fruits and vegetables across the United States.
+
+# Second Example:
+## Input:
+*text*: "Farmington, Vandalia, Court
+Farmington, Vandalia, Procuratorate
+
+Chief Judge: J. Martin
+Judge: V. Smith
+Clerk: W. Brooks
+
+**Case Number: 2023/008**
+
+---
+
+**DEFENDANT AND DEFENSE LAWYER INFORMATION**
+
+**Defendant:**  
+Name: T. Bennett  
+Gender: Female  
+Date of Birth: 8th June 1998  
+Residence: 45, Eastwood Street, Vandalia  
+Ethnicity: Caucasian  
+Occupation: Self-Employed Consultant  
+
+**Defense Lawyer:**  
+Name: X. Sanders  
+Law Firm: Sanders & Associates Law Firm
+
+---
+
+**CASE PROCEDURES**
+
+This court duly examined the case against the defendant, T. Bennett, in strict accordance with the procedures dictated by law. The case underwent a series of investigatory and judicial steps, which commenced as follows:
+
+**1. Case Filing and Investigation (1st March 2023):**  
+The Vandalia Tax Bureau initiated a preliminary investigation upon suspicion that T. Bennett had engaged in activities designed to evade tax recovery efforts. The investigation revealed potential tax evasion for the fiscal year 2022.
+
+**2. Detention Measures Taken (15th March 2023):**  
+Detention measures were imposed to prevent the possibility of flight risk by the defendant and to preserve the integrity of potential evidence. This step was taken amid extraordinary circumstances that presented a real risk of evasion.
+
+**3. Criminal Detention (20th March 2023):**  
+Upon accumulating further evidence confirming suspicions of tax evasion, the defendant was formally placed in criminal detention. This measure was undertaken to secure her presence as the investigations and legal processes continued.
+
+**4. Arrest (25th March 2023):**  
+On careful examination and review of the accumulating evidence, the Farmington, Vandalia, Procuratorate issued an arrest warrant for the defendant. The arrest warrant was promptly executed, leading to the detention of T. Bennett.
+
+---
+
+**CASE STATEMENT**
+
+The facts of the case reveal a systematic effort by the defendant, T. Bennett, to evade tax arrears recovery measures implemented by the authorities. The allegations are comprehensively supported by substantive evidence that places the culpability squarely on the defendant.
+
+T. Bennett, a self-employed consultant, failed to fulfill her tax obligations despite enjoying a lucrative income throughout 2022. The evidence reveals a series of calculated steps to transfer assets, falsify accounts, and underreport income, thus painstakingly orchestrating an elaborate scheme to defraud the state tax authorities.
+
+Further delving into the specifics, it is alleged that from January 2022 to December 2022, the defendant transferred substantial sums of money to her brother’s company. The transactions intended to conceal assets and impair recovery efforts by the tax authorities. Bank statements elucidate many transfers amounting to $120,000, all of which substantiated by testimony from the defendant’s brother and emails mapping the detailed transfer process.
+
+Significant misrepresentation and falsification of accounts were also observed between March 2022 and November 2022. The defendant perpetuated an illusion of underreporting her earnings by manipulating her consultancy income records. The financial audit report delineated glaring discrepancies in her financial statements, further corroborated by written confessions from two employees in her consultancy firm. Altered balance sheets recovered during a search of the defendant's office added a conspicuous layer of evidence showcasing intentional duplicity.
+
+Moreover, in June 2022, T. Bennett executed the sale of a high-value property located at 123 Main Street, Vandalia. This transaction was illicitly kept away from the purview of tax authorities. The sale was confirmed through a legally binding property contract, testimony from the purchaser, and email exchanges about the transaction.
+
+---
+
+**CHARGE**
+
+The defendant, T. Bennett, was formally charged with the Crime of Evading Tax Arrears Recovery, a charge codified under No. 203 of our jurisdiction's penal code. The intent of her actions, coupled with substantial monetary value involved, compounded the crime's gravity.
+
+---
+
+**JUDGMENT RESULT**
+
+Upon thorough scrutiny of the evidence presented, the aggravated nature of the crime, the defendant’s lack of remorse, and in consideration of the applicable statutes under No. 203, this court arrives at the following judgment:
+
+**Charge: Crime of Evading Tax Arrears Recovery**
+
+**Sentence:**
+- Five years of imprisonment.
+- A fine of $300,000 payable within a stipulated period following the issuance of this judgment.
+
+The sentence represents a balanced judgment meted out to serve as a deterrent to similar infractions. The incarceration period and the imposed fine reflect the significant economic injury inflicted upon the state due to the defendant’s illegal activities.
+
+Probation: None.
+
+This sentence underscores this court's commitment to upholding the rule of law and ensuring stringent punishment for tax evasion activities, which undermine the fiscal responsibility and economic stability of our jurisdiction.
+
+---
+
+CONCLUSION
+
+This court, in fulfilling its duty to administer justice, discerned the elements of deliberate tax evasion articulated in this case. Recognizing the essential role that tax compliance plays in the socio-economic fabric, the sentencing adheres to an ethos of deterrence, retribution, and education. Let this judgment serve as an unequivocal message to deter similar infractions, promoting adherence to financial and legal obligations by all citizens.
+
+The court is adjourned.
+
+---
+
+Clerk: W. Brooks
+
+Date: 15th June 2023
+
+Reference Article is below：
+Article 203
+Taxpayers who owe taxes and take measures such as transferring or hiding property to prevent the tax authorities from recovering the owed taxes, if the amount is more than 10,000 yuan but less than 100,000 yuan, shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall also be fined one to five times the owed taxes; if the amount is more than 100,000 yuan, they shall be sentenced to fixed-term imprisonment of more than three years but not more than seven years, and shall also be fined one to five times the owed taxes."
+*entity*: Farmington, Vandalia, Court
+*question_1*: According to the court judgment of Farmington, Vandalia, Court, what crime did T. Bennett commit?
+*answer_1*: Crime of Evading Tax Arrears Recovery
+*question_2*: According to the court judgment of Farmington, Vandalia, Court, who was the chief judge?
+*answer_2*: J. Martin
+*question_3*: According to the court judgment of Farmington, Vandalia, Court, what was the judgment date?
+*answer_3*: 15th June, 2023
+*question_4*: According to the court judgment of Farmington, Vandalia, Court, what was the location of the high-value property sold by T. Bennett?
+*answer_4*: 123 Main Street, Vandalia
+*question_5*: According to the court judgment of Farmington, Vandalia, Court, what was the occupation of T. Bennett?
+*answer_5*: Self-Employed Consultant
+
+## Output:
+*text_new*: "Farmington Court Sentences T. Bennett for Financial Crime
+
+Farmington, Vandalia — In a landmark judgment, the Farmington, Vandalia, Court concluded proceedings in case number 2023/008 involving defendant T. Bennett, a former logistics coordinator, charged with financial misconduct. The court ruled after a detailed inquiry into events that unfolded over the 2022 fiscal year.
+
+According to court documents, a preliminary investigation by the Vandalia Tax Bureau began on 1st March 2023, raising suspicions that Bennett had been obstructing tax recovery processes. Following evidence that suggested deliberate concealment of financial transactions, she was placed under detention on 15th March 2023 and later criminally detained on 20th March 2023. On 25th March 2023, the Farmington, Vandalia, Procuratorate authorized her formal arrest.
+
+The central allegation accused Bennett of falsifying records, underreporting income, and transferring approximately $120,000 to her brother’s company to frustrate tax recovery measures. Evidence presented included bank records, employee confessions, and forged financial statements. A notable instance of misconduct occurred in June 2022, when she sold a valuable property located at 67 Riverbank Lane, Vandalia—intentionally omitting the sale from her financial disclosures.
+
+The trial, presided over by Chief Judge L. Harper and recorded by Clerk D. Reynolds, culminated in a sentence handed down on 20th July 2023. T. Bennett was convicted of Financial Obstruction of Tax Enforcement and received a five-year prison term along with a $300,000 fine. The judgment emphasized the gravity of her actions, her lack of contrition, and the significant financial harm caused to the state.
+
+This ruling underscores the court’s firm stance against tax-related crimes and reaffirms its commitment to safeguarding economic justice and legal accountability."
+*question_1*: According to the court judgment of Farmington, Vandalia, Court, what crime did T. Bennett commit?
+*answer_1_new*: Financial Obstruction of Tax Enforcement
+*quote_1*: T. Bennett was convicted of Financial Obstruction of Tax Enforcement and received a five-year prison term along with a $300,000 fine.
+*question_2*: According to the court judgment of Farmington, Vandalia, Court, who was the chief judge?
+*answer_2_new*: L. Harper
+*quote_2*: The trial, presided over by Chief Judge L. Harper and recorded by Clerk D. Reynolds, culminated in a sentence handed down on 20th July 2023.
+*question_3*: According to the court judgment of Farmington, Vandalia, Court, what was the judgment date?
+*answer_3_new*: 20th July 2023
+*quote_3*: The trial, presided over by Chief Judge L. Harper and recorded by Clerk D. Reynolds, culminated in a sentence handed down on 20th July 2023.
+*question_4*: According to the court judgment of Farmington, Vandalia, Court, what was the location of the high-value property sold by T. Bennett?
+*answer_4_new*: 67 Riverbank Lane, Vandalia
+*quote_4*: A notable instance of misconduct occurred in June 2022, when she sold a valuable property located at 67 Riverbank Lane, Vandalia -- intentionally omitting the sale from her financial disclosures
+*question_5*: According to the court judgment of Farmington, Vandalia, Court, what was the occupation of T. Bennett?
+*answer_5_new*: Former logistics coordinator
+*quote_5*: In a landmark judgment, the Farmington, Vandalia, Court concluded proceedings in case number 2023/008 involving defendant T. Bennett, a former logistics coordinator, charged with financial misconduct.
+
+# Test case:
+## Input:
+*text*: {text}
+*entity*: {entity}
+{questions}
+
+## Output:

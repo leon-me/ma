@@ -1,0 +1,5 @@
+{
+    "prompt_name": "comparison/extract_contradictions",
+    "system_prompt": "You are an expert at comparing documents with each other.",
+    "user_prompt": "You will receive two texts from documents that may contain contradictory information. Your task is the following:\n1. Check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.\n2. List all contradictory information as quotes from the two documents. Use whole sentences from the documents.\n\nHere are the to texts:\nDocument 1: {text1}\nDocument 2: {text2}"
+}

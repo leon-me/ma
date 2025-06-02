@@ -1,0 +1,7 @@
+You will receive two texts from documents that may contain contradictory information. Your task is the following:
+1. Check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+2. List all contradictory information as quotes from the two documents. Use whole sentences from the documents.
+
+Here are the to texts:
+Document 1: {text1}
+Document 2: {text2}
