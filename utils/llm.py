@@ -37,7 +37,7 @@ def call_openai(
         raise RuntimeError("Model parameter not set!")
 
     client = OpenAI()
-
+    print("calling openai")
     completion = client.beta.chat.completions.parse(
         model=model,
         messages=[{"role": "system", "content": system_prompt}, {"role": "user", "content": user_prompt}],

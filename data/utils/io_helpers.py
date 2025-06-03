@@ -85,6 +85,23 @@ def file_has_been_manipulated(kind: Literal["doc", "query"], file_name: str, id:
     return is_present
 
 
+def delete_existing_doc_and_queries(doc_id: int, query_ids: List[int], file_name: str):
+    path_docs = f"additional_data/docs/{file_name}.csv"
+    path_queries = f"additional_data/queries/{file_name}.csv"
+
+    docs = pd.read_csv(path_docs, dtype={"doc_id": "Int64"})
+    queries = pd.read_csv(path_queries, dtype={"query.query_id": "Int64"})
+
+    docs_filtered = docs[~docs.apply(lambda row: row["doc_id"] == doc_id, axis=1)]
+    print(f"Deleting {len(docs) - len(docs_filtered)} documents. ID = '{doc_id}'")
+
+    queries_filtered = queries[~queries.apply(lambda row: row["query.query_id"] in query_ids, axis=1)]
+    print(f"Deleting {len(queries) - len(queries_filtered)} queries. IDs = [{query_ids}]")
+
+    docs_filtered.to_csv(path_docs, mode="w", index=False)
+    queries_filtered.to_csv(path_queries, mode="w", index=False)
+
+
 def easy_save_manipulated_doc(file_name: str, data: pd.Series):
     """
     Parameters:
