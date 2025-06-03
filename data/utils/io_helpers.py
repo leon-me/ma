@@ -77,6 +77,7 @@ def file_has_been_manipulated(kind: Literal["doc", "query"], file_name: str, id:
         id_col = "query.query_id"
 
     path = f"additional_data/{folder}/{file_name}.csv"
+
     try:
         is_present = id in pd.read_csv(path, usecols=[id_col], dtype={id_col: "Int64"})[id_col].to_list()
     except FileNotFoundError:
