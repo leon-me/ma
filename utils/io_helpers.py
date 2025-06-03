@@ -44,13 +44,9 @@ def get_documents(
 
     docs_manipulated_multi_textual = pd.read_csv(
         "data/additional_data/docs/multi_textual_manipulations.csv",
-        usecols=["doc_id", "domain", "content", "original_doc_id"],
-        dtype={"original_doc_id": "Int64"},
+        usecols=["doc_id", "domain", "content", "original_doc_ids"],
+        converters={"original_doc_ids": ast.literal_eval},
     )
-    docs_manipulated_multi_textual["original_doc_id"] = docs_manipulated_multi_textual["original_doc_id"].apply(
-        lambda i: [i] if pd.notna(i) else []
-    )
-    docs_manipulated_multi_textual.rename(columns={"original_doc_id": "original_doc_ids"}, inplace=True)
 
     if print_info == True:
         print(f"# original docs: {len(docs_original)}")
