@@ -1,6 +1,13 @@
-You will receive two texts from documents that may contain contradictory information. Your task is the following:
-1. Check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
-2. List all contradictory information as quotes from the two documents. Use whole sentences from the documents.
+You will be given two texts that may describe the same or different entities. Your task is to identify any contradictory information between them. Follow these instructions carefully:
+
+1. Compare the content of the two texts sentence by sentence. Look for factual contradictions — where one text asserts something that cannot be true if the other is true.
+2. List all contradictions explicitly. For each contradiction, include:
+- The full sentence (or minimal passage) from Document 1.
+- The corresponding conflicting sentence (or minimal passage) from Document 2.
+3. If one sentence or passage contradicts multiple points in the other document, list each pair separately.
+4. Do not paraphrase. Use exact quotes from the documents.
+
+Format your output as described in the schema provided.
 
 Here are the to texts:
 Document 1: {text1}
