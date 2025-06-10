@@ -1,0 +1,452 @@
+id1,id2,model,conflicting_passage_doc1,conflicting_passage_doc2
+134,100134,gpt-4.1,Occupation: Senior Government Auditor,Occupation: Financial Consultant
+46,100046,gpt-4.1,"Total liabilities for JetWing Aviation amounted to $200 million, reflecting the company's debt obligations at the end of the accounting period.","Total liabilities for JetWing Aviation amounted to $250 million, reflecting the company's debt obligations at the end of the accounting period."
+179,100179,gpt-4.1,"Admission Time: 1st, May","Admission Time: 2nd, May"
+100134,300002,gpt-4.1,Chief Judge: C. Ward,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith"
+100136,136,gpt-4.1,"In March 2022, in a separate incident yet continuing his trend of power misuse, Franklin Williams authorized city funds to be expended for legitimate companies he secretly controlled.","In March 2022, in a separate incident yet continuing his trend of power misuse, Franklin Williams authorized city funds to be expended for fictitious companies he secretly controlled."
+100136,136,gpt-4.1,"2. Unauthorized Budget Expenditures (March 2022):
+   Misappropriation of city funds by transferring them to legitimate companies, accompanied by forged authorization documentation.","2. Unauthorized Budget Expenditures (March 2022):
+   Misappropriation of city funds by transferring them to fictitious companies, accompanied by forged authorization documentation."
+100136,136,gpt-4.1,"(b) Audit Trails and Financial Irregularities: The financial system audit retrieved transactional data, unveiling unwarranted fund transfers to several legitimate entities with no actual business operations or city-related engagements.","(b) Audit Trails and Financial Irregularities: The financial system audit retrieved transactional data, unveiling unwarranted fund transfers to several fictitious entities with no actual business operations or city-related engagements."
+100136,300002,gpt-4.1,"Residence: 72, Brighton Street, Georgetown","Residence of F. Williams according to the court judgment of Upton, Georgetown, Court | 45, Maple Avenue, Georgetown."
+100139,139,gpt-4.1,"Accordingly, Y. Nelson is sentenced to four years of fixed-term imprisonment.","Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+100139,300002,gpt-4.1,*Defense Lawyer:* Y. Parker  *Law Firm:* Parker & Associates,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith"
+100047,47,gpt-4.1,"In October 2018, CleanCo Housekeeping Services experienced a change in senior management as Mr. David Anderson, the CEO, completed his tenure. He was succeeded by Mr. John Smith, an experienced industry professional with a proven track record of leading and expanding housekeeping companies.","In October 2018, CleanCo Housekeeping Services experienced a change in senior management as Mr. David Anderson, the CEO, completed his tenure. He was succeeded by Ms. Amanda Wilson, an experienced industry professional with a proven track record of leading and expanding housekeeping companies."
+100047,300001,gpt-4.1,"In October 2018, CleanCo Housekeeping Services experienced a change in senior management as Mr. David Anderson, the CEO, completed his tenure. He was succeeded by Mr. John Smith, an experienced industry professional with a proven track record of leading and expanding housekeeping companies.",Person who resigned from the board of directors of CleanCo Housekeeping Services in November 2018 | Mr. John Smith
+100179,300003,gpt-4.1,"Disease History: Hypertension diagnosed 5 years ago, well-controlled with medication","Past disease history of Y. Evans according to the hospitalization records of Parker General Hospital | Diabetes diagnosed 3 years ago, managed with lifestyle changes."
+100052,300001,gpt-4.1,"To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies.",Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million
+100181,300003,gpt-4.1,Age: 59,Age of J. Brooks according to the hospitalization records of Farmington General Hospital | 62
+100059,59,gpt-4.1,"Firstly, the company decided to distribute $10 million in dividends to its shareholders, enhancing shareholder returns.","Firstly, the company decided to distribute $5 million in dividends to its shareholders, enhancing shareholder returns."
+100059,300001,gpt-4.1,"Retail Emporium is a publicly traded retail company that was established in December 2005 in New York, USA, specializing in the sale of clothing, accessories, and home goods.",Month and year when Retail Emporium was established | March 2006
+100066,66,gpt-4.1,"Buildcorp Holdings, established on February 1, 2000, is a publicly listed construction company based in London, United Kingdom, specializing in commercial, residential, and infrastructure projects.","Buildcorp Holdings, established on January 1, 2000, is a publicly listed construction company based in London, United Kingdom, specializing in commercial, residential, and infrastructure projects."
+100066,300001,gpt-4.1,"In April 2018, the company completed the acquisition of 35% equity of A&B Construction, a prominent player in the industry.",Percentage of equity acquired by Buildcorp Holdings in A&B Construction | 40%
+100198,198,gpt-4.1,Marital Status: Married,Marital Status: Single
+100198,300003,gpt-4.1,"Chief Complaint:
+Tremors in hands and slow movement for 6 months",Chief complaint of K. Mendoza according to the hospitalization records of Southport General Hospital | Severe headaches and dizziness for 3 months.
+100071,71,gpt-4.1,"In terms of senior management changes, Mr. John Doe was appointed as the CEO of ABC Education Corporation in March 2021.","In terms of senior management changes, Mr. Jane Doe was appointed as the CEO of ABC Education Corporation in March 2021."
+100071,300001,gpt-4.1,"In August 2021, ABC Education Corporation welcomed Mr. John Smith to its Board of Directors.",Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe
+100072,72,gpt-4.1,"The debt to assets ratio was 0.30, highlighting the company's prudent financial leverage.","The debt to assets ratio was 0.25, highlighting the company's prudent financial leverage."
+100072,300001,gpt-4.1,"One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April.",Company acquired by MediaCorp in April 2018 | Creative Studios
+100199,199,gpt-4.1,"Severe headache, high fever, and neck stiffness for 3 days.","Severe headache, high fever, and neck stiffness for 2 days."
+100199,300003,gpt-4.1,"Preliminary Diagnosis:
+Epidemic Cerebrospinal Meningitis",Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis
+100077,77,gpt-4.1,"In February 2019, Energen Solutions Ltd underwent a significant revision of its corporate governance policy, aligning it with best practices in the industry.","In January 2019, Energen Solutions Ltd underwent a significant revision of its corporate governance policy, aligning it with best practices in the industry."
+100077,77,gpt-4.1,"In December 2019, Energen Solutions Ltd experienced a change in its senior management with the appointment of Ms. Linda Anderson as the new CEO.","In February, the company also experienced a change in senior management, with the appointment of a new CEO and CFO who brought extensive expertise in the renewable energy sector."
+100077,300001,gpt-4.1,"In June, the company acquired 30% equity of SunPower Corp for $350 million, expanding its market share and enhancing its control.",Percentage of SunPower Corp acquired by Energen Solutions Ltd in June 2019 | 45%
+100078,78,gpt-4.1,"In December 2019, InnovateTech acquired GameWorld Studios, a renowned mobile gaming company, for $60 million.","In December 2019, InnovateTech acquired DreamLife Studios, a renowned mobile gaming company, for $60 million."
+100078,300001,gpt-4.1,"In November 2019, InnovateTech made a major investment of $20 million in Project Ampere, a ground-breaking social media analytics platform.","Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd."
+100079,79,gpt-4.1,"To optimize its capital structure, Elevate Retail Inc. underwent debt restructuring in August 2020, reducing its liabilities by $20 million.","To optimize its capital structure, Elevate Retail Inc. underwent debt restructuring in August 2020, reducing its liabilities by $15 million."
+100079,300001,gpt-4.1,"Moreover, Elevate Retail made a significant investment in renewable energy projects in May 2020.","Month, in which Elevate Retail Inc. invested in renewable energy projects | August 2021"
+100208,300003,gpt-4.1,"Hypertension for 10 years, well controlled with medication.",Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years
+100209,209,gpt-4.1,Marital Status: Married,Marital Status: Widowed
+100209,300003,gpt-4.1,Ethnicity: Caucasian,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic
+100207,207,gpt-4.1,Age: 35,Age: 30
+100207,300003,gpt-4.1,Occupation: Teacher,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer
+100205,205,gpt-4.1,Marital Status: single,Marital Status: married
+100205,205,gpt-4.1,"Marital Status: Single
+Marriage Age: 30
+Spouse's Health Condition: Good health
+Children's Condition: Two children, both in good health","Marital Status: Married
+Marriage Age: 30
+Spouse's Health Condition: Good health
+Children's Condition: Two children, both in good health"
+100205,300003,gpt-4.1,Temperature: 37.6°C,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C
+100212,212,gpt-4.1,Age: 53,Age: 52
+100212,300003,gpt-4.1,"Chief Complaint:
+Persistent joint pain and morning stiffness for 6 months",Chief complaint of J. Reyes according to the hospitalization records of Bridgewater General Hospital | Severe headaches and dizziness for 3 months.
+100211,211,gpt-4.1,"Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 2 days ago.","Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago."
+100211,300003,gpt-4.1,"Admission Time: 27th, January","Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February"
+100112,112,gpt-4.1,"The cumulative actions of the defendant have resulted in the misappropriation of $750,000 in total, as documented in the forensic financial audit reports and corroborated by testimonies from municipal staff, bank transfer records, ledgers, and other significant pieces of evidence.","The cumulative actions of the defendant have resulted in the misappropriation of $700,000 in total, as documented in the forensic financial audit reports and corroborated by testimonies from municipal staff, bank transfer records, ledgers, and other significant pieces of evidence."
+100112,112,gpt-4.1,"- Magnitude of Embezzlement: The cumulative amount embezzled by V. Martin stands at $750,000, signifying a substantial financial loss to municipal resources allocated for critical public services.","- Magnitude of Embezzlement: The cumulative amount embezzled by V. Martin stands at $700,000, signifying a substantial financial loss to municipal resources allocated for critical public services."
+100112,300002,gpt-4.1,"**Date:** 10th October, 2022
+
+**Chief Judge:**  
+N. Harris  
+
+**Judge:**  
+V. Robinson  
+
+**Court Clerk:**  
+A. Wood  ","Date of the court judgment of Bayside, Roseville, Court | 15th November, 2022"
+100112,300002,gpt-4.1,"**Date:** 10th October, 2022
+
+**Chief Judge:**  
+N. Harris  
+
+**Judge:**  
+V. Robinson  
+
+**Court Clerk:**  
+A. Wood  ","Chief judge according to the court judgment of Bayside, Roseville, Court | J. Smith"
+100114,114,gpt-4.1,Presiding Judge: J. Smith,Presiding Judge: P. Reyes
+100115,115,gpt-4.1,"At approximately 21:30 hrs, J. Hall was seen following R. Johnson to his residence located at 60 Elm Street, Belmont.","At approximately 21:30 hrs, J. Hall was seen following R. Johnson to his residence located at 50 Elm Street, Belmont."
+100115,300002,gpt-4.1,"On the evening of 10th July, 2022, at approximately 20:00 hrs, J. Hall and R. Johnson were seen at Coffeescape Café. Witnesses reported that an intense verbal confrontation ensued between them.","Location where J. Hall had a heated argument with R. Johnson according to the judgment of Urbana, Belmont, Court | Central Park"
+100119,119,gpt-4.1,"Date of Birth: 19th July, 1964","Date of Birth: 18th July, 1964"
+100119,300002,gpt-4.1,"Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000.","Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000."
+100123,123,gpt-4.1,"Residence: 22, Maple Avenue, Quarryville","Residence: 18, Elmwood Street, Quarryville"
+100123,300002,gpt-4.1,"- A fine of $100,000","Fine imposed on Z. Torres according to the court judgment of Sterling, Quarryville, Court | $150,000"
+100125,125,gpt-4.1,"Defendant:
+
+    
+**Name:** J. Smith","Defendant:
+
+    
+**Name:** M. Cooper"
+100125,125,gpt-4.1,"On the 12th day of February 2022, the criminal case involving the defendant J. Smith was formally documented and filed by the Hartford Ashland Procuratorate following preliminary inquiries, complaint lodging, and review of initial evidence.","On the 12th day of February 2022, the criminal case involving the defendant M. Cooper was formally documented and filed by the Hartford Ashland Procuratorate following preliminary inquiries, complaint lodging, and review of initial evidence."
+100125,125,gpt-4.1,"On the 15th day of February 2022, the relevant authorities undertook and implemented appropriate detention measures to preclude any potential tampering with evidence or witness intimidation by the defendant.","On the 15th day of February 2022, the relevant authorities undertook and implemented appropriate detention measures to preclude any potential tampering with evidence or witness intimidation by the defendant."
+100125,125,gpt-4.1,"On the 18th day of February 2022, the accused, J. Smith, was subjected to criminal detention as the collected evidence suggested significant culpability, warranting continued custody of the defendant.","On the 18th day of February 2022, the accused, M. Cooper, was subjected to criminal detention as the collected evidence suggested significant culpability, warranting continued custody of the defendant."
+100125,125,gpt-4.1,"On the 20th day of February 2022, an arrest warrant was issued, and J. Smith was formally placed under arrest in compliance with procedural legislation, thereby ensuring the prevention of flight risk and furtherance of justice.","On the 20th day of February 2022, an arrest warrant was issued, and M. Cooper was formally placed under arrest in compliance with procedural legislation, thereby ensuring the prevention of flight risk and furtherance of justice."
+100125,125,gpt-4.1,"The defendant, J. Smith, held the designation of Construction Site Manager at the construction project located at 45, Elm Street, Ashland.","The defendant, M. Cooper, held the designation of Construction Site Manager at the construction project located at 45, Elm Street, Ashland."
+100125,125,gpt-4.1,"The defendant, J. Smith, exhibited a lack of due diligence and improper supervision concerning the erection and securing of scaffolding on the construction site.","The defendant, M. Cooper, exhibited a lack of due diligence and improper supervision concerning the erection and securing of scaffolding on the construction site."
+100125,125,gpt-4.1,"Despite receiving multiple warnings and notifications from the project engineer and site safety officer regarding the inherent instability and potential dangers posed by the scaffolding, the defendant neglected to undertake or implement any corrective measures. J. Smith's disregard for these explicit warnings constituted gross negligence.","Despite receiving multiple warnings and notifications from the project engineer and site safety officer regarding the inherent instability and potential dangers posed by the scaffolding, the defendant neglected to undertake or implement any corrective measures. M. Cooper's disregard for these explicit warnings constituted gross negligence."
+100125,125,gpt-4.1,"At approximately 2:45 PM, the compromised scaffolding structure collapsed, resulting in the catastrophic accident and immediate fatality of a construction worker named J. Harris.","At approximately 2:45 PM, the compromised scaffolding structure collapsed, resulting in the catastrophic accident and immediate fatality of a construction worker named J. Harris."
+100125,125,gpt-4.1,"Consequently, the defendant, J. Smith, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident.","Consequently, the defendant, M. Cooper, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident."
+100125,125,gpt-4.1,"Comprehensive inspection reports spanning multiple dates elaborated on the structural inadequacies and non-compliance of the scaffolding setup, directly implicating the site management under J. Smith's purview.","Comprehensive inspection reports spanning multiple dates elaborated on the structural inadequacies and non-compliance of the scaffolding setup, directly implicating the site management under M. Cooper's purview."
+100125,125,gpt-4.1,"The site’s safety officer provided detailed testimonies affirming the issuance of multiple safety warnings, the nature of communications with J. Smith, and observations of the defendant's inaction concerning rectifying the identified hazards.","The site’s safety officer provided detailed testimonies affirming the issuance of multiple safety warnings, the nature of communications with M. Cooper, and observations of the defendant's inaction concerning rectifying the identified hazards."
+100125,125,gpt-4.1,"Secure communications between the project engineer and J. Smith dated 10th February 2022 delineated explicit warnings and professional recommendations for immediate corrective actions, regrettably ignored by the defendant.","Secure communications between the project engineer and M. Cooper dated 10th February 2022 delineated explicit warnings and professional recommendations for immediate corrective actions, regrettably ignored by the defendant."
+100125,125,gpt-4.1,"Recorded telephonic conversations documented on 10th February 2022 served as critical evidence, reflecting the project engineer's desperate attempts to convey the urgency and severity of the scaffolding issue to J. Smith.","Recorded telephonic conversations documented on 10th February 2022 served as critical evidence, reflecting the project engineer's desperate attempts to convey the urgency and severity of the scaffolding issue to M. Cooper."
+100125,125,gpt-4.1,"Direct testimonies from three construction workers offered a chronological narrative of preceding events, detailing the verbal warnings ignored by J. Smith and the observable negligence in implementing required safety measures.","Direct testimonies from three construction workers offered a chronological narrative of preceding events, detailing the verbal warnings ignored by M. Cooper and the observable negligence in implementing required safety measures."
+100125,125,gpt-4.1,The autopsy report confirmed the cause of J. Harris's death attributable to fatal injuries sustained during the scaffolding collapse. The death certificate authenticated the time and circumstances surrounding the untimely demise.,The autopsy report confirmed the cause of J. Harris's death attributable to fatal injuries sustained during the scaffolding collapse. The death certificate authenticated the time and circumstances surrounding the untimely demise.
+100125,125,gpt-4.1,"Uninterrupted security camera footage further solidified the sequence of events, depicting the collapse's precise moment and the perilous conditions leading up to the tragic incident.","Uninterrupted security camera footage further solidified the sequence of events, depicting the collapse's precise moment and the perilous conditions leading up to the tragic incident."
+100125,125,gpt-4.1,"The defendant's position of responsibility and failure to act upon critical safety warnings magnifies the negligence, directly causing a significant loss of life.","The defendant's position of responsibility and failure to act upon critical safety warnings magnifies the negligence, directly causing a significant loss of life."
+100125,125,gpt-4.1,"However, it's notable that J. Smith exhibited a cooperative demeanor throughout the investigation, possessed no prior criminal record, and demonstrated genuine remorse post-incident.","However, it's notable that M. Cooper exhibited a cooperative demeanor throughout the investigation, possessed no prior criminal record, and demonstrated genuine remorse post-incident."
+100125,125,gpt-4.1,"In accordance with the prosecution's submission, comprehensive analysis of the evidence, and bearing in mind the prescribed legal provisions, this Court imposes the following judgment upon the defendant, J. Smith:
+
+For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:
+
+    **Four years of fixed-term imprisonment**","In accordance with the prosecution's submission, comprehensive analysis of the evidence, and bearing in mind the prescribed legal provisions, this Court imposes the following judgment upon the defendant, M. Cooper:
+
+For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:
+
+    **Four years of fixed-term imprisonment**"
+100125,125,gpt-4.1,"This Court informs the defendant, J. Smith, of the legal right to appeal the judgment and sentence within 30 days from the date of this judgment as per statutory provisions.","This Court informs the defendant, M. Cooper, of the legal right to appeal the judgment and sentence within 30 days from the date of this judgment as per statutory provisions."
+100125,300002,gpt-4.1,**Date of Judgment:** 15th August 2022,"Date of the court judgment of Hartford, Ashland, Court | 20th September 2022"
+100125,300002,gpt-4.1,**Chief Judge:** Z. Kelly,"Chief judge according to the court judgment of Hartford, Ashland, Court | J. Smith"
+100127,127,gpt-4.1,"The charge put forward by the prosecution was one of a Crime of Negligent Manslaughter, as delineated under Article 133.","The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133."
+100127,127,gpt-4.1,"Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Manslaughter pursuant to Article 133.","Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Homicide pursuant to Article 133."
+100127,300002,gpt-4.1,"Chief Judge: 
+T. Rivera","Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith"
+400128,128,gpt-4.1,"The proceedings were overseen by Chief Judge O. Edwards, supported by Judge W. Hernandez and Court Clerk H. White.","Chief Judge: W. Hernandez  
+Judge: O. Edwards  
+Court Clerk: H. White"
+400128,128,gpt-4.1,"On June 2, 2023, the Lakewood, Mayfield, Court delivered its decision on the criminal case involving X. Alvarez, a delivery driver accused of causing a serious traffic accident.","*This judgment is issued under the authority of the Lakewood, Mayfield, Court on the 1st of June, 2023.*"
+400132,132,gpt-4.1,"The case, overseen by Chief Judge A. Salazar, centered on Mr. Ruiz’s deliberate actions to conceal financial assets from March 2021 to December 2021.","**Chief Judge:** I. Torres  
+**Judge:** H. Hill  
+**Clerk:** J. Bennett"
+400132,132,gpt-4.1,"Mr. Ruiz, an Indian businessman, orchestrated a calculated transfer of $50,000 to an offshore account in the Bahamas on March 15, 2021.","During this period, Mr. Ruiz executed a financial maneuver transferring $50,000 to an offshore account located in the Cayman Islands. The aim was to conceal funds from the tax authorities and obstruct the recovery of taxes due. The transfer, dated 15th March 2021, was meticulously planned as evident from an email exchange dated 10th March 2021, which discussed the strategy for concealing the funds."
+400132,132,gpt-4.1,"During the proceedings, it was revealed that between August and October 2021, Mr. Ruiz concealed business equipment worth $40,000 in a storage unit registered under a third party’s name.","Subsequently, Mr. Ruiz engaged in the deliberate concealment of valuable business equipment, estimated to be worth $30,000, in a storage unit. To maintain anonymity and evade detection, Mr. Ruiz registered the unit under a third party’s name."
+400132,132,gpt-4.1,"Reflecting on the severity of these actions, the court sentenced Mr. Ruiz to five years of imprisonment and imposed a fine of $120,000, highlighting the magnitude of the evaded taxes and the orchestrated deceit.","**Sentence:** 
+  - 5 years of fixed-term imprisonment.
+  - A fine of $100,000, reflecting four times the amount of taxes evaded."
+400132,132,gpt-4.1,"Mr. Ruiz, an Indian businessman, orchestrated a calculated transfer of $50,000 to an offshore account in the Bahamas on March 15, 2021.","- **Defendant:** 
+  - **Name:** Z. Ruiz
+  - **Gender:** Male
+  - **Date of Birth:** 26th June, 1990
+  - **Residence:** 65, Summerville Street, Arlington
+  - **Ethnicity:** Hispanic
+  - **Occupation:** Business Owner"
+400133,133,gpt-4.1,"The case, presided over by Chief Judge V. Smith, was meticulously examined, revealing Bennett's involvement in extensive efforts to evade tax obligations for the fiscal year 2022.","Chief Judge: J. Martin
+Judge: V. Smith
+Clerk: W. Brooks"
+400133,133,gpt-4.1,"The defendant was accused of transferring assets, falsifying accounts, and underreporting income, alongside selling a high-value property located at 456 Elm Street, Vandalia, without disclosing it to tax authorities.","Moreover, in June 2022, T. Bennett executed the sale of a high-value property located at 123 Main Street, Vandalia. This transaction was illicitly kept away from the purview of tax authorities."
+400134,134,gpt-4.1,"The judgment, delivered on the 30th of June, 2023, found Anderson guilty of Bending the Law for Personal Gain, in violation of Article No. 397.","Having thoroughly examined the aforementioned evidence and considerations, this court finds P. Anderson guilty of the Crime of Bending the Law for Personal Gain under Article No. 397."
+400134,134,gpt-4.1,"Danbury, Pinehurst Court has sentenced P. Anderson, a self-employed consultant, to five years in prison and fined him $300,000 for engaging in corrupt practices.","P. Anderson, holding the position of Senior Government Auditor, was entrusted with the vital responsibility of auditing financial records of various entities."
+400134,134,gpt-4.1,"The court documents detailed that Anderson manipulated audit findings for ABC Manufacturing in May 2022, receiving $25,000 in exchange for hiding financial discrepancies.","In May 2022, Anderson agreed to obscure serious financial infractions within ABC Manufacturing's records, accepting a sum of $20,000 in return."
+400134,134,gpt-4.1,"Additionally, Anderson was implicated in accepting a $55,000 bribe from DEF Services in December 2022, ensuring the company evaded proper audit scrutiny.","An additional instance of corruption was evidenced in December 2022. Anderson accepted a bribe of $35,000 from DEF Services."
+400134,134,gpt-4.1,"The prosecution’s evidence further revealed that Anderson engaged with XYZ Construction Co. in February 2023, altering audit documents for a cryptocurrency payment of $50,000. A blockchain analysis confirmed the transaction to Anderson’s digital wallet, alongside encrypted email correspondences corroborating the illicit activities.","Finally, in February 2023, Anderson engaged in fraudulent activities by altering audit findings for the benefit of GHI Corporation. In return, he received $50,000 in cryptocurrency. A meticulous blockchain analysis confirmed the placement of these funds into Anderson's digital wallet, corroborated by encrypted correspondences between Anderson and GHI Corporation’s representatives."
+400134,134,gpt-4.1,"The prosecution’s evidence further revealed that Anderson engaged with XYZ Construction Co. in February 2023, altering audit documents for a cryptocurrency payment of $50,000.","Bank statements: Detailed records disclosed multiple payments summing $150,000 from various accounts of XYZ Construction Co. to Anderson’s personal account over the identified period."
+400136,136,gpt-4.1,"Williams, a former city engineer residing at 74, Brighton Street, Georgetown, faced charges relating to his tenure where he exploited his position to manipulate municipal contracts and city resources.","Residence: 72, Brighton Street, Georgetown"
+400136,136,gpt-4.1,"Williams, a former city engineer residing at 74, Brighton Street, Georgetown, faced charges relating to his tenure where he exploited his position to manipulate municipal contracts and city resources.",Occupation: City Official
+400205,205,gpt-4.1,presented with severe right-sided back pain and hematuria that persisted for two days,Severe left-sided back pain and hematuria for 2 days
+400205,205,gpt-4.1,reported a sudden onset of sharp pain in the right lower back radiating to the groin,Severe sharp pain in left lower back; radiating to the groin
+400205,205,gpt-4.1,A CT scan of the abdomen confirmed the presence of right renal calculi.,CT scan of abdomen shows left renal calculi
+400205,205,gpt-4.1,"the preliminary diagnosis focused on urinary tract stones, while hematuria was noted as a significant symptom.",Preliminary Diagnosis: 1. Urinary Tract Stones (Left Renal Calculi) 2. Hematuria
+400205,205,gpt-4.1,"Gonzalez, unmarried and living with her family in Oxford",Marital Status: married
+400205,205,gpt-4.1,"Gonzalez, unmarried and living with her family in Oxford","Marital History: Married
+Marriage Age: 30
+Spouse's Health Condition: Good health
+Children's Condition: Two children, both in good health"
+400139,139,gpt-4.1,"Consequently, the court sentenced Y. Nelson to two years of fixed-term imprisonment for violating Article No. 293 of the Criminal Code.","Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
+400139,139,gpt-4.1,Y. Nelson was represented by defense lawyer L. Johnson from Parker & Associates during the trial.,"Defense Lawyer: Y. Parker
+Law Firm: Parker & Associates"
+400040,40,gpt-4.1,"Established on June 1, 2002, in Washington, D.C., Acme Government Solutions has been a key player in the government services sector.","Acme Government Solutions is a government industry company established on June 1, 2001 in Washington, D.C., specializing in providing comprehensive government services and solutions."
+400040,40,gpt-4.1,"In January 2021, Acme made a bold move by distributing $6 million in dividends to its shareholders, reflecting its strong financial position and commitment to rewarding investors.","In January 2021, Acme Government Solutions made a significant decision to distribute $5 million of dividends to its shareholders."
+400040,40,gpt-4.1,"In February 2021, Acme Government Solutions appointed a new CEO.",Another sub-event following the Shareholders' Meeting Resolution was the appointment of a new CEO in March 2021.
+400040,40,gpt-4.1,Asset and debt restructuring in August and September 2021 further improved Acme’s financial health.,"To optimize its capital structure, Acme Government Solutions underwent debt restructuring in August 2021, reducing its liabilities by $15 million. This move improved the company's financial condition and reduced its financial costs. In September 2021, the company underwent an asset restructuring, optimizing its business structure."
+400040,40,gpt-4.1,"Acme's return on equity was reported as 8.67%, indicating efficient utilization of shareholder funds.","Finally, the return on equity was 6.67%, reflecting the operational efficiency of shareholder equity."
+400042,42,gpt-4.1,"April saw the acquisition of Tech Tools Ltd. for $90 million, boosting operational capacity and market competitiveness.","Additionally, in April 2017, Advanced Manufacturing Solutions Inc. acquired Tech Tools Ltd. for $80 million, further expanding its business scope, increasing operational capabilities, and enhancing market competitiveness."
+400042,42,gpt-4.1,"In June 2017, the company underwent a debt restructuring process that saw liabilities decrease by $25 million.","The company successfully executed a debt restructuring process in June 2017, reducing liabilities by $30 million."
+400042,42,gpt-4.1,"In the same month, a dividend of $0.50 per share was declared, totaling $20 million, reflecting strong financial performance.","Furthermore, in July 2017, the company declared a dividend distribution of $0.50 per share, totaling $20 million."
+400042,42,gpt-4.1,"Total assets were valued at $750 million, with liabilities at $300 million, resulting in shareholder equity of $500 million.","The total assets of the company stood at $800 million, reflecting the impact of asset acquisition, disposal, and revaluation. The total liabilities amounted to $300 million, influenced by new debt issuance, debt repayment, and debt restructuring. The shareholder equity reached $500 million, influenced by the net profit, dividend distribution, and capital reserves."
+400042,42,gpt-4.1,"In January 2018, Advanced Manufacturing Solutions Inc. underwent a revision of its corporate governance policies, leading to a series of sub-events that further strengthened its governance practices.","In January 2017, Advanced Manufacturing Solutions Inc. underwent a revision of its corporate governance policies, leading to a series of sub-events that further strengthened its governance practices."
+400042,42,gpt-4.1,"Furthermore, in May 2017, Advanced Manufacturing Solutions Inc. adopted a Whistleblower Protection Policy, demonstrating its commitment to promoting ethical behavior and accountability.","Furthermore, in June 2017, Advanced Manufacturing Solutions Inc. adopted a Whistleblower Protection Policy, demonstrating its commitment to promoting ethical behavior and accountability."
+400052,52,gpt-4.1,"EduCorp, founded on October 1, 2005, is an innovative education company headquartered in the City of Education, Country A.","EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A."
+400052,52,gpt-4.1,"In March 2020, EduCorp made a substantial investment of $10 million in Project SmartLearn, an advanced online learning initiative, further expanding its educational offerings.","In February 2020, EduCorp made a major investment of $10 million in Project SmartLearn, an innovative online learning platform that offers personalized education solutions."
+400052,52,gpt-4.1,"During the same period, the company restructured its debt, successfully lowering its liabilities by $10 million through effective renegotiations.","To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies."
+400052,52,gpt-4.1,"April 2020 marked a pivotal expansion with a 50% equity acquisition in Alpha Schools, a leading K-12 institution, strengthening EduCorp's market position.","In April 2020, EduCorp completed the acquisition of 40% equity of Alpha Schools, a renowned K-12 institution in the region."
+400052,52,gpt-4.1,"with shareholder equity standing at $300 million, supported by a $60 million capital raise in May 2020 from private investors, fueling future growth and development plans.","In May 2020, EduCorp conducted a large-scale financing activity, raising $50 million from a consortium of private investors and institutional lenders."
+400052,52,gpt-4.1,"In the realm of governance, EduCorp revised its code of conduct in February 2020 to include stricter guidelines on conflicts of interest. This was complemented by mandatory ethics training for all employees conducted in March 2020, underscoring its commitment to ethical business practices.","In March 2020, EduCorp revised its code of conduct to include stricter guidelines on conflicts of interest and procurement practices. This revision ensured clearer guidelines for employees on ethical conduct, reducing the likelihood of future ethics and integrity incidents. Additionally, in April 2020, EduCorp conducted mandatory ethics training for all employees."
+400052,52,gpt-4.1,"Leadership changes followed, with Lisa Franklin assuming the role of CEO in May 2020, poised to drive innovation and expand EduCorp's online presence.","In May 2020, EduCorp appointed Lisa Collins as its new CEO. Collins' transformative leadership approach aims to emphasize innovation and expand EduCorp's online platform."
+400052,52,gpt-4.1,"October 2020 saw the addition of Zac Brown to the board, bringing invaluable insights from the education sector.","In October 2020, Steven Johnson was appointed as a new board member, bringing extensive experience in the education industry."
+400052,52,gpt-4.1,"As of December, EduCorp's return on equity stood at a robust 9%, reflecting efficient management of shareholder funds.","The return on equity for EduCorp is 8%, which reflects the operational efficiency of shareholder equity."
+400052,52,gpt-4.1,"In finance, EduCorp's debt ratio was maintained at a secure 35%, indicating a prudent balance between assets and liabilities.","The debt ratio of EduCorp is 40%, indicating the ratio of total liabilities to total assets."
+400053,53,gpt-4.1,"Initially established on May 1, 2000, the company operates across several media channels, including television networks, film studios, and digital platforms, constantly innovating to maintain its competitive edge.","Vanguard Media Group, established on March 1, 2000 in Los Angeles, California, is a publicly traded media company that operates television networks, film studios, and digital media platforms, producing and distributing various forms of entertainment content."
+400053,53,gpt-4.1,"April marked the acquisition of MediaFirst Productions, expanding Vanguard's digital capabilities and content portfolio.","One of the significant sub-events during this period was the acquisition of MediaTech Productions in April 2019. This acquisition enhanced Vanguard Media Group's digital media capabilities and content portfolio, allowing the company to reach a wider audience and compete more effectively in the digital media landscape."
+400053,53,gpt-4.1,"In June, Vanguard strategically partnered with Video Mania Inc., a move that expanded its digital distribution reach and boosted its advertising revenue.","Another sub-event was the partnership with Digital Channel Inc. in June, which allowed Vanguard to tap into their user base, expand digital content distribution, and enhance online advertising capabilities."
+400053,53,gpt-4.1,"Following this, Vanguard launched its streaming service in September 2019, offering a wide array of movies, TV shows, and exclusive content to enhance customer engagement and create new revenue streams.","In August, Vanguard launched its own streaming service, offering movies, TV shows, and exclusive content to compete with established players in the industry."
+400053,53,gpt-4.1,"The financial success of the year was further reflected in July with the distribution of a $0.80 per share dividend, showcasing Vanguard's commitment to rewarding its shareholders.","In July, the company distributed $0.75 per share of dividends to shareholders, reflecting its commitment to profit sharing with investors and enhancing shareholder returns."
+400183,183,gpt-4.1,"Upton General Hospital has been managing the case of K. Moore, an 75-year-old Caucasian female, who was admitted on the 10th of February. Moore, a retired teacher and widower residing at 27 Milton Street, Upton, presented with a challenging dermatological condition primarily involving severe skin blistering.","Name: K. Moore
+Gender: Male
+Age: 85
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 27, Milton Street, Upton
+Admission Time: 10th February"
+400183,183,gpt-4.1,"Upton General Hospital has been managing the case of K. Moore, an 75-year-old Caucasian female, who was admitted on the 10th of February.","Name: K. Moore
+Gender: Male
+Age: 85
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 27, Milton Street, Upton
+Admission Time: 10th February"
+400183,183,gpt-4.1,"Upton General Hospital has been managing the case of K. Moore, an 75-year-old Caucasian female, who was admitted on the 10th of February.","Name: K. Moore
+Gender: Male
+Age: 85
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 27, Milton Street, Upton
+Admission Time: 10th February"
+400183,183,gpt-4.1,"Upton General Hospital has been managing the case of K. Moore, an 75-year-old Caucasian female, who was admitted on the 10th of February.","Name: K. Moore
+Gender: Male
+Age: 85
+Ethnicity: Caucasian
+Marital Status: Widowed
+Occupation: Retired
+Address: 27, Milton Street, Upton
+Admission Time: 10th February"
+400183,183,gpt-4.1,"Upon admission, Moore described the sudden onset of red, itchy rashes located on his wrists, forearms, and neck.","Onset:
+Started suddenly 2 weeks ago at home, no obvious prodrome, possible trigger unknown"
+400183,183,gpt-4.1,"Upon admission, Moore described the sudden onset of red, itchy rashes located on his wrists, forearms, and neck.","Chief Complaint:
+Itchy skin rashes for 2 weeks"
+400188,188,gpt-4.1,"Bailey’s preliminary diagnosis was adjusted to major depressive disorder with psychotic features, based on his symptom profile and mental status examination.",Preliminary Diagnosis: Schizophrenia
+400188,188,gpt-4.1,"The patient's medical history revealed no significant prior mental health issues, and his family reported no history of schizophrenia or other major mental health disorders.",Family History: Family reports no history of schizophrenia or other major mental health disorders. Parents are healthy; has one younger sibling who is also healthy.
+400188,188,gpt-4.1,"Bailey's management plan focuses on continuing with the prescribed medication Risperidone, now increased to 3mg daily, alongside regular CBT sessions.","Long-term Orders: Risperidone 2mg daily, Cognitive Behavioral Therapy twice weekly."
+400192,192,gpt-4.1,"L. Rogers, a 60-year-old Caucasian woman, was admitted to Knoxville General Hospital on January 6th.",Age: 56
+400192,192,gpt-4.1,"The patient, who works as a nurse in a local clinic and is married with two healthy children, has a generally healthy medical history.","Occupation: Teacher
+...
+Occupation and Working Conditions: Teacher at a local high school, generally well-lit and comfortable working conditions"
+400192,192,gpt-4.1,"Upon examination, Dr. Nelson confirmed a preliminary diagnosis of glaucoma, which was initially suspected two months prior by an optometrist.","Diagnosis and Treatment History: Visited optometrist 2 months ago, diagnosed with early-stage cataract. Prescribed new glasses with minimal relief; no other treatments received prior to hospital admission."
+400192,192,gpt-4.1,This was further validated by a slit-lamp examination that ruled out other ocular pathologies such as glaucoma or macular degeneration.,"Differential Diagnosis:
+Glaucoma ruled out due to normal intraocular pressure and absence of optic nerve damage. Age-related macular degeneration ruled out due to normal retinal appearance. Physiological lens aging considered but ruled out due to severity of visual impairment."
+400065,65,gpt-4.1,"Established on March 18, 1996, this publicly listed company in Ruralville, Agriprovince, focuses on the production and distribution of organic produce.","Green Fields Agriculture Co., established on March 18, 1995, is a publicly listed company based in Ruralville, Agriprovince, specializing in the production and distribution of organic fruits and vegetables."
+400065,65,gpt-4.1,"A pivotal event was the debt restructuring of February 2018, which reduced liabilities by $10 million, enhancing financial stability. This was bolstered by a 25% increase in sales volume in January 2018, following a new sales strategy.","In January 2018, Green Fields Agriculture Co. implemented a new sales strategy, which resulted in a 20% increase in sales volume compared to the previous year."
+400065,65,gpt-4.1,"Subsequently, in March, the company acquired 150 acres of farmland, aiming to reduce reliance on third-party suppliers.","Additionally, in March 2018, the company acquired 100 acres of farmland in a neighboring region."
+400065,65,gpt-4.1,"April saw a 10% reduction in operational expenses due to cost-cutting measures, contributing to profitability.","To further enhance profitability, the company implemented cost-cutting measures across various departments in April 2018, resulting in a 15% reduction in operational expenses."
+400065,65,gpt-4.1,"Growth was pursued aggressively; $60 million was invested in Project Green Harvest in March 2018, broadening business horizons.","In March 2018, the company made a major investment of $50 million in Project Green Harvest, which broadened its business areas and enhanced profitability."
+400065,65,gpt-4.1,The $30 million acquisition of Fresh Field Farms in May expanded competitive reach.,"In May 2018, the company completed the asset acquisition of Fresh Field Farms, with a total value of $25 million."
+400065,65,gpt-4.1,"By September, acquiring 50% equity of Fertile Land Farms further solidified market presence.","In September 2018, Green Fields Agriculture Co. completed the acquisition of 40% equity of Fertile Land Farms, further expanding its market share and enhancing control."
+400065,65,gpt-4.1,"A flood in August 2018 severely affected crop yields, underscoring vulnerability to climate change.","In August 2018, a severe drought in the region significantly reduced crop yields, leading to decreased revenues and profitability."
+400065,65,gpt-4.1,October's implementation of a cutting-edge CRM system streamlined operations further.,"In October 2018, Green Fields Agriculture Co. invested in an enterprise resource planning (ERP) system to streamline operations, improve efficiency, and optimize resource allocation."
+400065,65,gpt-4.1,"September marked the launch of a premium frozen organic product line, capitalizing on the convenience food trend.","In September 2018, the company launched a new line of premium organic frozen fruits and vegetables to cater to the growing demand in the convenience food sector."
+400065,65,gpt-4.1,"In conclusion, 2018 was transformative for Green Fields Agriculture Co., marked by substantial growth, strategic governance improvements, and a steadfast commitment to sustainability, setting the stage for future success.","In conclusion, Green Fields Agriculture Co. experienced a series of events in 2018 that shaped its financial performance and business operations. The company's debt restructuring, sales growth, cost-cutting measures, strategic partnerships, product diversification, and investments contributed to its overall growth and enhanced market competitiveness. However, challenges such as the severe drought and labor strike highlighted the need for risk management strategies."
+400194,194,gpt-4.1,"The diagnosis was confirmed through a blood smear that tested positive for Plasmodium falciparum, the parasite responsible for malaria. These findings, combined with his travel history, led to the initial diagnosis of sepsis.","Preliminary Diagnosis:
+Malaria"
+400198,198,gpt-4.1,"Mendoza, who is of Hispanic descent and married with two children, had no prior significant health issues.","Marital Status: Single
+Marriage Age: N/A
+Spouse's Health Condition: N/A
+Children's Condition: N/A"
+400198,198,gpt-4.1,"Mendoza, who is of Hispanic descent and married with two children, had no prior significant health issues.",Age: 35
+400198,198,gpt-4.1,"K. Mendoza, a 33-year-old software engineer residing in Southport, was admitted to Southport General Hospital on June 20th...",Age: 35
+400199,199,gpt-4.1,"A thorough physical examination and specialist consultations followed, with a neurologist confirming positive Brudzinski and Kernig signs. Auxiliary examinations, including a CSF analysis, revealed elevated white blood cells, high protein levels, and low glucose, which further substantiated the diagnosis of Japanese encephalitis, ruling out other conditions such as Japanese encephalitis and common cold.","Preliminary Diagnosis: Epidemic Cerebrospinal Meningitis
+
+Diagnostic Basis:
+High fever, severe headache, neck stiffness, skin petechiae, positive CSF findings.
+
+Differential Diagnosis:
+Japanese encephalitis (ruled out due to presence of skin petechiae and bacterial CSF findings), common cold (ruled out due to severity and CSF findings)."
+400199,199,gpt-4.1,"Auxiliary examinations, including a CSF analysis, revealed elevated white blood cells, high protein levels, and low glucose, which further substantiated the diagnosis of Japanese encephalitis, ruling out other conditions such as Japanese encephalitis and common cold.","Differential Diagnosis:
+Japanese encephalitis (ruled out due to presence of skin petechiae and bacterial CSF findings), common cold (ruled out due to severity and CSF findings)."
+400074,74,gpt-4.1,"Established on May 1, 2003, the company has consistently demonstrated growth and innovation.","specializing in the manufacturing and distribution of personal care and household products, since its establishment on April 1, 2003."
+400074,74,gpt-4.1,"The report detailed operating income for 2017 at an impressive $450 million, showcasing the company's revenue strength from its core and peripheral business activities.","Operating income for the year amounted to $500 million, reflecting the total amount of main business income and other business income within the accounting period."
+400074,74,gpt-4.1,"Significant corporate milestones included the strategic acquisition of Boston Cosmetics in January 2017 for $45 million, bolstering their position in the cosmetics market.","In January 2017, the company completed the asset acquisition of Greenfield Cosmetics for a total value of $50 million."
+400074,74,gpt-4.1,"Total assets were valued at $1.2 billion, while liabilities stood at $500 million, indicating sound financial health with shareholder equity at $600 million.","Hudson Consumer Goods Co. reported total assets of $1.2 billion at the end of the accounting period. ... the company's total liabilities amounted to $600 million, representing the total amount of debts the company is obligated to repay."
+400202,202,gpt-4.1,"Mr. Kim, who maintains a generally healthy lifestyle and is unmarried, reported a chief complaint of frequent acid reflux and heartburn, especially noticeable after meals and during nighttime.","Marital Status: Married
+Marriage Age: 25
+Spouse's Health Condition: Healthy
+Children's Condition: Two children, both healthy"
+400202,202,gpt-4.1,"Princeton General Hospital has recently admitted H. Kim, a 48-year-old software engineer residing at 72, Main street, Princeton, due to health complications that started approximately two weeks ago.","Address: 76, Quarryville street, Princeton"
+400204,204,gpt-4.1,"Indianola General Hospital admitted 70-year-old male C. Cruz, a retired teacher, presenting with a complex set of symptoms. Ms. Cruz, a resident of Indianola, sought medical attention due to persistent fever, chills, and debilitating back pain that began abruptly two days prior.","Name: C. Cruz
+Gender: female
+Age: 65
+Ethnicity: Hispanic
+Marital Status: Widowed
+Occupation: Retired
+Address: 7, Ashland street, Indianola"
+400204,204,gpt-4.1,"Indianola General Hospital admitted 70-year-old male C. Cruz, a retired teacher, presenting with a complex set of symptoms.","Name: C. Cruz
+Gender: female
+Age: 65"
+400204,204,gpt-4.1,"Indianola General Hospital admitted 70-year-old male C. Cruz, a retired teacher, presenting with a complex set of symptoms.","Name: C. Cruz
+Gender: female"
+400204,204,gpt-4.1,"Indianola General Hospital admitted 70-year-old male C. Cruz, a retired teacher, presenting with a complex set of symptoms. Ms. Cruz, a resident of Indianola, sought medical attention due to persistent fever, chills, and debilitating back pain that began abruptly two days prior.","Name: C. Cruz
+Gender: female
+Age: 65
+Ethnicity: Hispanic
+Marital Status: Widowed
+Occupation: Retired
+Address: 7, Ashland street, Indianola"
+400204,204,gpt-4.1,"Upon arrival, Ms. Cruz's primary complaint was a severe headache and dizziness that began abruptly two days prior.","Chief Complaint:
+Fever, chills, back pain for 2 days"
+400204,204,gpt-4.1,"Upon arrival, Ms. Cruz's primary complaint was a severe headache and dizziness that began abruptly two days prior.","Present Illness:
+Onset: Symptoms started abruptly 2 days ago with high fever and chills while at home.
+Main Symptoms: Unilateral back pain on the right side, severe and constant, not relieved by rest, accompanied by nausea and vomiting.
+Accompanying Symptoms: Fever (38.8°C), urgency, frequent urination with burning sensation."
+400075,75,gpt-4.1,"Culture Innovators Ltd., a prominent company in the culture industry, was established on March 1, 2008, in New York, United States.","Culture Innovators Ltd., established on March 1, 2010, is a publicly listed company based in New York, United States, specializing in providing creative solutions and immersive experiences in the culture industry through interactive exhibitions, digital installations, and educational programs."
+400075,75,gpt-4.1,"In January 2021, Culture Innovators Ltd. acquired ArtEx, a museum exhibition design firm, for $60 million, enhancing its market position.","In January 2021, Culture Innovators Ltd. made a major asset acquisition by acquiring ArtEx, a renowned museum exhibition design company, valued at $50 million."
+400075,75,gpt-4.1,"In February 2021, the company revised its Code of Conduct, providing clearer guidelines and enhancing its ethical framework.","In line with this, the company revised its Code of Conduct in March 2021 to provide clearer guidelines and expectations for employees."
+400075,75,gpt-4.1,"Meanwhile, the appointment of Daniel Ricciardo as the new CEO in September 2021 marked a new chapter in leadership, aligning with the company's growth strategies.","In September 2021, the company underwent senior management changes with the appointment of a new CEO, John Davis."
+400075,75,gpt-4.1,"October 2021 saw Sara White, a noted expert in cultural innovation, joining the Board of Directors.","Additionally, in October 2021, Culture Innovators Ltd. appointed Jane Smith, a renowned expert in cultural innovation, to its Board of Directors."
+400075,75,gpt-4.1,"Additionally, the company reported a 98% compliance rate for information disclosure, demonstrating its commitment to transparency.","As a publicly listed company, Culture Innovators Ltd. has demonstrated its commitment to transparency and accountability through its adherence to timely, accurate, and transparent information disclosure, with a compliance rate of 96.5%."
+400075,75,gpt-4.1,"The company also focused on financial growth and stability, investing $12 million in Project ArtTech in April 2021, and successfully raising $30 million in May 2021.","In April 2021, Culture Innovators Ltd. made a major investment of $10 million in Project ArtTech, broadening its business areas and enhancing profitability."
+400075,75,gpt-4.1,"In November 2021, Culture Innovators Ltd. launched an online education platform offering interactive educational programs.","In September 2021, Culture Innovators Ltd. launched an online education platform offering interactive educational programs."
+400075,75,gpt-4.1,"By December 2021, Culture Innovators Ltd. acquired 60% equity of Experience Makers, further expanding its market share. The return on equity of Culture Innovators Ltd. was 20%.","In December 2021, Culture Innovators Ltd. acquired 60% equity of Experience Makers, a significant move that expanded its market share and established the company as a prominent player in the sector. ... Lastly, the return on equity was 17%, indicating the operational efficiency of shareholder equity."
+400078,78,gpt-4.1,"The company specializes in developing software solutions for social networking platforms, and its growth trajectory has been remarkable since going public on the NYSE stock exchange.","The company went public and is currently listed on NASDAQ, showcasing its commitment to transparency and accountability."
+400078,78,gpt-4.1,"In the same month, InnovateTech raised $30 million through large-scale financing, fortifying its financial base for future expansion.","To support its expansion and development opportunities, InnovateTech successfully raised $50 million through large-scale financing in February 2019."
+400078,78,gpt-4.1,"By the end of the year, InnovateTech acquired Play4Fun Studios, a well-known mobile gaming company, for $60 million, marking a significant expansion into the gaming industry.","In December 2019, InnovateTech acquired DreamLife Studios, a renowned mobile gaming company, for $60 million. This major asset acquisition expanded InnovateTech's business scope and augmented its market competitiveness in the gaming industry."
+400078,78,gpt-4.1,"A key initiative was the enhancement of their Data Protection Policy in June, aimed at providing a safe mechanism for reporting suspected fraudulent activities.","In June, the company enhanced its Whistleblower Policy to provide employees with a safe and confidential mechanism to report suspected fraudulent activities, unethical behavior, or violations of corporate governance policies."
+400078,78,gpt-4.1,"November 2019 was noteworthy for the company's major investment of $20 million in Project Ampere, a cutting-edge social media analytics platform.","In November 2019, InnovateTech made a major investment of $20 million in Project Ampere, a ground-breaking social media analytics platform."
+400078,78,gpt-4.1,"The company also distributed $10 million in dividends in June, signifying its dedication to shareholder returns.","In June 2019, InnovateTech distributed $10 million in dividends to its shareholders, enhancing shareholder returns and solidifying investor confidence."
+400079,79,gpt-4.1,"In July 2020, Elevate Retail acquired 80% equity of Fashion Luxury Group, expanding market share in the luxury segment.","In July 2020, Elevate Retail Inc. completed the acquisition of 80% equity of High Fashion Corp. This acquisition expanded the company's market share and enhanced its control in the luxury segment of the retail industry."
+400079,79,gpt-4.1,"Debt restructuring in August decreased liabilities by $10 million, improving financial conditions.","To optimize its capital structure, Elevate Retail Inc. underwent debt restructuring in August 2020, reducing its liabilities by $15 million. This move improved the company's financial condition and reduced financial costs."
+400079,79,gpt-4.1,Elevate Retail's financial performance for the accounting period included an operating income of $480 million and a net profit of $30 million.,The operating income of Elevate Retail Inc. for the accounting period amounted to $480 million. ... The net profit of Elevate Retail Inc. for the accounting period reached $32 million.
+400079,79,gpt-4.1,The debt ratio of Elevate Retail Inc. was 40.00%.,"The debt ratio of Elevate Retail Inc. stands at 39.58%. This ratio reflects the proportion of total liabilities to total assets, indicating the company's debt level."
+400079,79,gpt-4.1,The return on equity of Elevate Retail Inc. was 5.6%,The return on equity of Elevate Retail Inc. is 5.52%.
+400079,79,gpt-4.1,"In June, Elevate Retail invested in renewable energy projects, mitigating environmental impacts and aligning with sustainable energy solutions.","Moreover, Elevate Retail made a significant investment in renewable energy projects in May 2020. This investment not only mitigates the company's environmental impact but also demonstrates their financial support for sustainable energy solutions."
+400079,79,gpt-4.1,"Demonstrating commitment to sustainability, Elevate Retail launched a Sustainability Task Force in February 2020, enhancing public image and competitiveness.","In January 2020, the company launched a Sustainability Task Force, demonstrating their dedication to sustainability and enabling focused efforts on achieving sustainability goals."
+400207,207,gpt-4.1,"Chavez, who works as a nurse and resides in Kingsport, presented with complaints of palpitations, irritability, and notable weight gain over the past two months. During this period, she also reported increased sweating, restlessness, fatigue, and an increase in bowel movements. Despite an increased appetite, Chavez experienced a weight loss of 10 pounds.","Chief Complaint:
+Palpitations, irritability, and weight loss for the past two months"
+400207,207,gpt-4.1,"Chavez, who works as a nurse and resides in Kingsport, presented with complaints of palpitations, irritability, and notable weight gain over the past two months.",Occupation and Working Conditions: Full-time teacher with moderate stress levels
+400207,207,gpt-4.1,"E. Chavez, a 35-year-old woman, was admitted to Kingsport Medical Center on October 1st with significant symptoms that were impacting her daily life.",Age: 30
+400213,213,gpt-4.1,"K. Ramos, an 83-year-old part-time librarian and resident of Windsor, Ontario","Age: 82
+Occupation: Retired"
+400213,213,gpt-4.1,"Her symptoms include a fever of 38.5°C, fatigue, and localized swelling and redness over the left femur, which aggravated her mobility. Prior consultation with her primary care physician led to an X-ray that suggested inflammation, but further evaluation was deemed necessary. Preliminary diagnoses indicate osteosarcoma, as the X-ray showed a periosteal reaction, a potential sign of this condition.","X-ray on 25th October showed periosteal reaction. MRI recommended for further evaluation.
+
+Preliminary Diagnosis:
+Acute Osteomyelitis
+
+Diagnostic Basis:
+Diagnosis based on patient's history of sudden severe bone pain, physical examination findings of localized redness and swelling over the femur, elevated temperature, and X-ray indicating periosteal reaction.
+
+Differential Diagnosis:
+Osteosarcoma ruled out due to limited periosteal reaction scope."
+400213,213,gpt-4.1,"The elderly Caucasian woman, who lives independently and is known for her generally healthy lifestyle, began experiencing sudden throbbing pain in her left femur three days prior, with no apparent cause.","K. Ramos reports severe, throbbing pain localized in the left femur. The pain has been continuous, rated as an 8 out of 10 in severity, and is aggravated by walking or any weight-bearing activities. Local redness and swelling are also noted. Fever of 38.5°C (101.3°F) and general fatigue were observed, coinciding with the onset of bone pain. Patients visited her primary care physician two days ago, who ordered an X-ray and referred her to this hospital. Initial X-ray suggested bone inflammation but was inconclusive. No treatments were administered prior to admission."
+400213,213,gpt-4.1,"Her familial medical background reveals no known history of osteomyelitis, although her mother passed away from a stroke, and her father from lung cancer.",Family History: Mother died of stroke at age 78. Father died of lung cancer at age 72. No siblings. No known family history of osteomyelitis.
+400213,213,gpt-4.1,"Ms. Ramos's medical history suggests no major health issues apart from hypertension, managed effectively with medication.","Disease History: History of hypertension, managed with medication. No known history of diabetes or cancer."
+400213,213,gpt-4.1,Occupation: part-time librarian,Occupation and Working Conditions: Worked as a school teacher before retirement.
+400214,214,gpt-4.1,"Regarding immunization, the records show that standard neonatal vaccines were administered within 24 hours of birth.",Immunization History: No immunizations given immediately after birth
+400110,110,gpt-4.1,"the Quarryville, Yorktown, Court has concluded the criminal judgment against James Thompson, a 35-year-old finance manager from Yorktown Municipal Office, charged with the money Laundering.","On March 30, 2023, after due procedure and confirmation of sufficient grounds, an arrest warrant was issued and executed against James Thompson for the crime of embezzlement."
+400110,110,gpt-4.1,"The court, guided by Article 384, charged Thompson with the Crime of Money Laundering.",This court charges James Thompson with the Crime of Embezzlement under Article 384.
+400110,110,gpt-4.1,"This judgment, finalized on October 12, 2023, follows an exhaustive investigation led by the Quarryville, Yorktown, Procuratorate...","This Court's presiding judges extend this judgment on the 10th day of October, 2023."
+400116,116,gpt-4.1,"Ms. Hill, born on June 28, 1969, was a hispanic female retail assistant residing at 5, Tiverton Street, Brighton.",Ethnicity: Caucasian
+400116,116,gpt-4.1,Represented by defense lawyer K. Nelson from Nelson & Partner Law Firm,Defense Lawyer: K. Nelson  Law Firm: Nelson & Associates Law Firm
+400116,116,gpt-4.1,"her formal arrest followed on February 15, 2022, after substantial evidence was gathered.","On the 12th of February 2022, with the completion of the initial investigative procedures, sufficient proof was obtained to substantiate the allegation against I. Hill. Consequently, she was formally detained by the police. ... Subsequent to formal detention, on the 15th of February 2022, an arrest warrant was issued by this court. The issuance of the warrant was predicated on the continuous investigation which yielded concrete evidence demonstrating her participation in a series of thefts. I. Hill was then officially apprehended by law enforcement officers and taken into police custody to face judicial procedures."
+400059,59,gpt-4.1,"Retail Emporium, a well-established retail giant, has been making significant waves in the market since its inception in November 2005 in New York, USA.","Retail Emporium is a publicly traded retail company that was established in December 2005 in New York, USA, specializing in the sale of clothing, accessories, and home goods."
+400059,59,gpt-4.1,"Among these was the distribution of $4 million in dividends to its shareholders in January, a move aimed at enhancing shareholder returns.","Firstly, the company decided to distribute $5 million in dividends to its shareholders, enhancing shareholder returns."
+400059,59,gpt-4.1,"The year also saw the company opening three new stores in key locations nationwide, significantly boosting its retail presence and customer outreach.","Retail Emporium opened five new stores in key locations across the country, expanding its retail footprint and potentially increasing sales and customer base."
+400059,59,gpt-4.1,"In January, Retail Emporium achieved remarkable milestones in sustainability, including a 10% reduction in carbon emissions through energy-efficient practices.","In January, Retail Emporium achieved remarkable milestones in sustainability, including a 20% reduction in carbon emissions through energy-efficient practices."
+400059,59,gpt-4.1,The appointment of Mr. John Doe as a new board member in July brought extensive retail experience and strategic insights to the company.,"The appointment of Ms. Sarah Johnson as a new board member in July brought extensive retail experience and strategic insights to the company, positively impacting its future direction."
+400059,59,gpt-4.1,"The company's financial indicators for 2020 were strong, with an operating income of $550 million and a net profit of $50 million, driven by various strategic moves and operational efficiencies.","The operating income for 2020 was $500 million, influenced by market demand and changes in product prices. The net profit for the same period was $50 million, influenced by operating income, cost control, and non-recurring gains and losses."
+300001,46,gpt-4.1,Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million,"In January 2021, the company successfully executed a debt restructuring strategy, reducing its liabilities by $50 million."
+300001,47,gpt-4.1,Person who resigned from the board of directors of CleanCo Housekeeping Services in November 2018 | Mr. John Smith,"In November 2018, there was also a change in the board of directors with the resignation of Ms. Emily Carter and the appointment of Mr. Michael Evans."
+300001,52,gpt-4.1,Month and year when Retail Emporium was established | March 2006,"EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A."
+300001,52,gpt-4.1,Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million,"To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies."
+300001,59,gpt-4.1,Month and year when Retail Emporium was established | March 2006,"Retail Emporium is a publicly traded retail company that was established in December 2005 in New York, USA, specializing in the sale of clothing, accessories, and home goods."
+300001,66,gpt-4.1,Percentage of equity acquired by Buildcorp Holdings in A&B Construction | 40%,"In April 2018, the company completed the acquisition of 35% equity of A&B Construction, a prominent player in the industry."
+300001,71,gpt-4.1,Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe,"In August 2021, ABC Education Corporation welcomed Mr. John Smith to its Board of Directors."
+300001,71,gpt-4.1,Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe,"In terms of senior management changes, Mr. Jane Doe was appointed as the CEO of ABC Education Corporation in March 2021."
+300001,72,gpt-4.1,Company acquired by MediaCorp in April 2018 | Creative Studios,"One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April. This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry."
+300001,77,gpt-4.1,Percentage of SunPower Corp acquired by Energen Solutions Ltd in June 2019 | 45%,"In June, the company acquired 30% equity of SunPower Corp for $350 million, expanding its market share and enhancing its control."
+300001,78,gpt-4.1,"Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd.","In November 2019, InnovateTech made a major investment of $20 million in Project Ampere, a ground-breaking social media analytics platform. This investment expanded InnovateTech's business areas, enhanced profitability, and diversified its product offerings."
+300001,78,gpt-4.1,"Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd.","In November, InnovateTech successfully completed its Initial Public Offering (IPO), generating funds for expansion and increasing market visibility. This IPO provided capital for business growth and enhanced the company's reputation as a publicly traded entity."
+300001,79,gpt-4.1,Month and year when Retail Emporium was established | March 2006,"Elevate Retail Inc., established on June 1, 2005, is a prominent retail company listed on the New York Stock Exchange (NYSE) and specializes in the sale of fashion apparel, accessories, and home goods."
+300001,79,gpt-4.1,"Month, in which Elevate Retail Inc. invested in renewable energy projects | August 2021","Moreover, Elevate Retail made a significant investment in renewable energy projects in May 2020. This investment not only mitigates the company's environmental impact but also demonstrates their financial support for sustainable energy solutions."
+300002,134,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith",Chief Judge: C. Ward
+300002,134,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","This court hereby sentences P. Anderson to five years of imprisonment and imposes a fine of $300,000."
+300002,136,gpt-4.1,"Residence of F. Williams according to the court judgment of Upton, Georgetown, Court | 45, Maple Avenue, Georgetown.","**Residence:** 72, Brighton Street, Georgetown"
+300002,136,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith","**Judge Presiding:** Chief Judge O. Nelson, Judge H. Alvarez"
+300002,136,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith","**Judge Presiding:** Chief Judge O. Nelson, Judge H. Alvarez"
+300002,136,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith","**Judge Presiding:** Chief Judge O. Nelson, Judge H. Alvarez"
+300002,136,gpt-4.1,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",*Defense Lawyer:*  **Name:** Diego Diaz  **Law Firm:** Georgetown & Associates Law Firm
+300002,136,gpt-4.1,"Date of the court judgment of Upton, Georgetown, Court | (not specified in Document 1)","**Date of Judgment:** 30th, September, 2023"
+300002,139,gpt-4.1,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",*Defense Lawyer:* Y. Parker
+300002,139,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith
+...
+Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith
+...
+Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith
+...
+Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",*Chief Judge:* Hon. H. Ruiz
+300002,112,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith",**Chief Judge:**  N. Harris
+300002,112,gpt-4.1,"Date of the court judgment of Bayside, Roseville, Court | 15th November, 2022","**Date:** 10th October, 2022"
+300002,112,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith",**Chief Judge:**  N. Harris
+300002,112,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith",**Chief Judge:**  N. Harris
+300002,114,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith",Presiding Judge: P. Reyes
+300002,114,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith","Signed:  P. Reyes, Presiding Judge  N. Mendoza, Associate Judge  Z. Davis, Court Clerk  Trenton, Eastwood Court  Dated: 5th March 2023"
+300002,115,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith","This case was tried before the Urbana, Belmont Court, presided over by Chief Judge E. Johnson and Judge W. Flores."
+300002,115,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith","This case was tried before the Urbana, Belmont Court, presided over by Chief Judge E. Johnson and Judge W. Flores."
+300002,115,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith","This case was tried before the Urbana, Belmont Court, presided over by Chief Judge E. Johnson and Judge W. Flores."
+300002,115,gpt-4.1,"Location where J. Hall had a heated argument with R. Johnson according to the judgment of Urbana, Belmont, Court | Central Park","On the evening of 10th July, 2022, at approximately 20:00 hrs, J. Hall and R. Johnson were seen at Coffeescape Café. Witnesses reported that an intense verbal confrontation ensued between them."
+300002,119,gpt-4.1,"Chief judge according to the court judgment of Riverton, Hamilton, Court | J. Smith","Chief Judge:
+Z. Rodriguez"
+300002,119,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000."
+300002,123,gpt-4.1,"Fine imposed on Z. Torres according to the court judgment of Sterling, Quarryville, Court | $150,000","Sentence:
+
+- Five years of fixed-term imprisonment
+- A fine of $100,000"
+300002,123,gpt-4.1,"Chief judge according to the court judgment of Sterling, Quarryville, Court | J. Smith",Chief Judge: H. Nguyen
+300002,125,gpt-4.1,"Date of the court judgment of Hartford, Ashland, Court | 20th September 2022",**Date of Judgment:** 15th August 2022
+300002,125,gpt-4.1,"Chief judge according to the court judgment of Hartford, Ashland, Court | J. Smith",**Chief Judge:** Z. Kelly
+300002,125,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to: **Four years of fixed-term imprisonment**"
+300002,127,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith",Chief Judge: T. Rivera
+300003,179,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
+300003,179,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Teacher
+300003,179,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,Temperature: 98.6°F
+300003,179,gpt-4.1,"Past disease history of Y. Evans according to the hospitalization records of Parker General Hospital | Diabetes diagnosed 3 years ago, managed with lifestyle changes.","Disease History: Hypertension diagnosed 5 years ago, well-controlled with medication"
+300003,181,gpt-4.1,Age of J. Brooks according to the hospitalization records of Farmington General Hospital | 62,Age: 59
+300003,181,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
+300003,181,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Retired
+300003,181,gpt-4.1,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February",Admission Time: 23rd November
+300003,198,gpt-4.1,Chief complaint of K. Mendoza according to the hospitalization records of Southport General Hospital | Severe headaches and dizziness for 3 months.,"Chief Complaint:
+Tremors in hands and slow movement for 6 months"
+300003,198,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Preliminary Diagnosis:
+Primary: Parkinson's Disease"
+300003,198,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Latino
+300003,198,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Software Engineer
+300003,198,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,Temperature: 98.6°F
+300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Preliminary Diagnosis:
+Epidemic Cerebrospinal Meningitis"
+300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Consultation Records: Neurology consult confirmed bacterial meningitis, discussed ongoing management."
+300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Differential Diagnosis:
+Japanese encephalitis (ruled out due to presence of skin petechiae and bacterial CSF findings), common cold (ruled out due to severity and CSF findings)."
+300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"CSF analysis: Elevated WBC, high protein, low glucose, culture pending."
+300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"CSF analysis report: WBC 1200/µL, protein 150 mg/dL, glucose 30 mg/dL."
+300003,208,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
+300003,208,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Retired Teacher
+300003,208,gpt-4.1,Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years,"Disease History: Hypertension for 10 years, well controlled with medication."
+300003,209,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
+300003,209,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,"Occupation and Working Conditions:
+Former elementary school teacher."
+300003,207,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation and Working Conditions: Full-time teacher with moderate stress levels
+300003,207,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Teacher
+300003,205,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,Temperature: 37.6°C
+300003,205,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: teacher
+300003,205,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation and Working Conditions: High school teacher; moderate stress environment
+300003,212,gpt-4.1,Chief complaint of J. Reyes according to the hospitalization records of Bridgewater General Hospital | Severe headaches and dizziness for 3 months.,"Chief Complaint:
+Persistent joint pain and morning stiffness for 6 months"
+300003,212,gpt-4.1,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February","Admission Time: 7th, September"
+300003,212,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,"General Condition:
+- Temperature: 37.2°C"
+300003,211,gpt-4.1,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February","Admission Time: 27th, January"
+300003,211,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,"Jan 27: Temp 38°C, Pulse 105 bpm, Respiration 24 bpm, BP 110/70 mmHg."
