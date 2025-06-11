@@ -23,6 +23,10 @@ class LLMDocumentComparisonExtractResponse(BaseModel):
     contradictions: list[Contradiction]
 
 
+class LLMQAResponse(BaseModel):
+    answer: str
+
+
 def format_user_prompt(prompt: str, text1: str, text2: str) -> str:
     return prompt.format(text1=text1, text2=text2)
 
