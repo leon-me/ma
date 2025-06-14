@@ -27,17 +27,13 @@ def get_documents(
     docs_original = pd.read_csv("data/DRAGONball/en/docs.csv", usecols=["doc_id", "domain", "content"])
     docs_original["original_doc_ids"] = docs_original.apply(lambda _: [], axis=1)
     docs_manipulated_single_textual = pd.read_csv(
-        "data/additional_data/docs/textual_manipulations_result.csv",
-        usecols=["doc_id", "domain", "content", "original_doc_id"],
-        dtype={"original_doc_id": "Int64"},
+        "data/additional_data/docs/single_textual_manipulations.csv",
+        usecols=["doc_id", "domain", "content", "original_doc_ids"],
+        converters={"original_doc_ids": ast.literal_eval},
     )
-    docs_manipulated_single_textual["original_doc_id"] = docs_manipulated_single_textual["original_doc_id"].apply(
-        lambda i: [i] if pd.notna(i) else []
-    )
-    docs_manipulated_single_textual.rename(columns={"original_doc_id": "original_doc_ids"}, inplace=True)
 
     docs_manipulated_single_tabular = pd.read_csv(
-        "data/additional_data/docs/tabular_manipulations_result.csv",
+        "data/additional_data/docs/single_tabular_manipulations.csv",
         usecols=["doc_id", "domain", "content", "original_doc_ids"],
         converters={"original_doc_ids": ast.literal_eval},
     )

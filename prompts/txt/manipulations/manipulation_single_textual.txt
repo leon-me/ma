@@ -4,7 +4,7 @@ You will recieve a text and a factual question about the text, as well as the an
 Below is an example to guide you how to execute your task.
 
 Example:
-text: In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities. The first sub-event was the appointment of a new CEO in January 2021. This new CEO brought extensive experience in the organic agriculture industry, providing fresh leadership to drive strategic initiatives and enhance the company's competitive position. The second sub-event was the expansion of farmland in February 2021 through the acquisition of additional land. This expansion aimed to increase production capacity and meet the growing demand for organic fruits and vegetables, thereby strengthening the company's position in the market.
+text: "In March 2021, Green Fields Agriculture Ltd. underwent significant changes in its senior management, which had a profound impact on the company's operational focus and strategic priorities. The first sub-event was the appointment of a new CEO in January 2021. This new CEO brought extensive experience in the organic agriculture industry, providing fresh leadership to drive strategic initiatives and enhance the company's competitive position. The second sub-event was the expansion of farmland in February 2021 through the acquisition of additional land. This expansion aimed to increase production capacity and meet the growing demand for organic fruits and vegetables, thereby strengthening the company's position in the market."
 question: When did Green Fields Agriculture Ltd. appoint a new CEO?
 answer: January 2021
 references: ['The first sub-event was the appointment of a new CEO in January 2021.']
@@ -13,7 +13,7 @@ answer_new: February 2021
 references_new: ['The first sub-event was the appointment of a new CEO in February 2021.']
 
 Test case:
-text: {text}
+text: "{text}"
 question: {question}
 answer: {answer}
 references: {references}

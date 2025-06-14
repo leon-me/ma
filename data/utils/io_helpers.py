@@ -49,6 +49,17 @@ def get_documents_to_manipulate(
     return doc_ids
 
 
+def get_doc_query_mapping(manipulation_type: Literal["textual", "tabular"]) -> pd.DataFrame:
+    """For single textual/tabular manipulations"""
+    query_col_name = f"query_id_{manipulation_type}_manipulation"
+    mapping = pd.read_csv(
+        "doc_query_mapping_single.csv",
+        usecols=["doc_id", query_col_name],
+        dtype={"doc_id": "Int64", query_col_name: "Int64"},
+    ).rename(columns={query_col_name: "query_id"})
+    return mapping
+
+
 def get_prompt(name: str) -> Tuple:
     """Reads from JSON-file
 
@@ -79,8 +90,10 @@ def file_has_been_manipulated(kind: Literal["doc", "query"], file_name: str, id:
     path = f"additional_data/{folder}/{file_name}.csv"
 
     try:
-        is_present = id in pd.read_csv(path, usecols=[id_col], dtype={id_col: "Int64"})[id_col].to_list()
+        ids_present = pd.read_csv(path, usecols=[id_col], dtype={id_col: "Int64"})[id_col].to_list()
+        is_present = id in ids_present
     except FileNotFoundError:
+        print("File not found!")
         is_present = False
     return is_present
 

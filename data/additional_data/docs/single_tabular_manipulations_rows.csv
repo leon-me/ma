@@ -1,0 +1,31 @@
+doc_id,original_doc_ids,domain,content,company_name,court_name,hospital_patient_name
+300003,[111],Law,"Amount embezzled by N. Adams in July 2022 according to the court judgment of Brighton, Sterling, Court | $45,000",,"Brighton, Sterling, Court",
+300003,[113],Law,"Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith",,"Preston, Lancaster, Court",
+300003,[119],Law,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.",,"Riverton, Hamilton, Court",
+300003,[122],Law,"Defendant according to the court judgment of Trenton, Vandalia, Court | J. Smith",,"Trenton, Vandalia, Court",
+300003,[123],Law,"Date when Z. Torres was formally arrested according to the court judgment of Sterling, Quarryville, Court | 30th, January, 2023",,"Sterling, Quarryville, Court",
+300003,[124],Law,"Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023",,"Norwood, Unionville, Court",
+300003,[129],Law,"Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud",,"Vandalia, Bayside, Court",
+300003,[131],Law,"Crime committed by X. Morgan according to the court judgment of Riverside, Glenwood, Court | Crime of Fraudulent Accounting Practices",,"Riverside, Glenwood, Court",
+300003,[135],Law,"Sentence for J. Gonzalez according to the court judgment of Ashton, Clarksville, Court | 3 years of probation",,"Ashton, Clarksville, Court",
+300003,[138],Law,"Date on which the court judgment of Summerville, Windsor, Court was delivered | 15th June, 2023",,"Summerville, Windsor, Court",
+300001,[178],Medical,Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.,,,Lexington General Hospital_Q. Reyes
+300001,[182],Medical,Historian for J. Rodriguez according to the hospitalization records of Granville General Hospital | Father: Juan Rodriguez.,,,Granville General Hospital_J. Rodriguez
+300001,[185],Medical,Chief complaint of I. Thomas according to the hospitalization records of Bridgewater General Hospital | Persistent cough and shortness of breath for 3 weeks.,,,Bridgewater General Hospital_I. Thomas
+300001,[191],Medical,Age of O. Myers according to the hospitalization records of Clarksville General Hospital | 15,,,Clarksville General Hospital_O. Myers
+300001,[195],Medical,Chief complaint of A. Smith according to the hospitalization records of Farmington City Hospital | Severe headache and dizziness for 3 days,,,Farmington City Hospital_A. Smith
+300001,[197],Medical,Prescribed long-term medication for O. Richardson according to the hospitalization records of Lakeside General Hospital | Vitamin D supplements 1000 IU daily,,,Lakeside General Hospital_O. Richardson
+300001,[201],Medical,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,,,Princeton General Hospital_A. Diaz
+300001,[206],Medical,Gender of O. Price according to the hospitalization records of Victoria General Hospital | Male,,,Victoria General Hospital_O. Price
+300001,[208],Medical,Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years,,,Newport General Hospital_V. Lewis
+300001,[210],Medical,Birthplace of J. Alvarez according to the hospitalization records of Clearwater General Hospital | Springfield,,,Clearwater General Hospital_J. Alvarez
+300002,[41],Finance,"Month and year when Entertainment Enterprises Inc. updated its compliance practices | March, 2020",Entertainment Enterprises Inc.,,
+300002,[44],Finance,Company acquired by Green Fields Agriculture Ltd. in June 2021 | AgroTech Innovations,Green Fields Agriculture Ltd.,,
+300002,[46],Finance,Number of new private jets acquired by JetWing Aviation in March 2021 | Seven,JetWing Aviation,,
+300002,[49],Finance,Person appointed as a new board member of Capital Finance Group in September 2018 | Ms. Emily Carter,Capital Finance Group,,
+300002,[54],Finance,Person appointed as the new Chief Financial Officer of HealthPro Innovations in August 2021 | Mr. John Smith,HealthPro Innovations,,
+300002,[55],Finance,"Month and year when the board of directors change occurred at InnovaTech Solutions | March, 2017",InnovaTech Solutions,,
+300002,[62],Finance,Cash flow of Fabrikon Manufacturing Ltd. | $120 million,Fabrikon Manufacturing Ltd.,,
+300002,[67],Finance,Regulatory body that approved SkyQuest Airlines for long-haul international flights in February 2017 | EASA,SkyQuest Airlines,,
+300002,[69],Finance,Cash flow value of Innovate Tech Solutions | $950 million,Innovate Tech Solutions,,
+300002,[71],Finance,"Month and year in which ABC Education Corporation formed a strategic partnership with a technology firm | June, 2021",ABC Education Corporation,,

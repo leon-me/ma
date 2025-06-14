@@ -1,131 +1,4 @@
 id1,id2,model,conflicting_passage_doc1,conflicting_passage_doc2
-134,100134,gpt-4.1,Occupation: Senior Government Auditor,Occupation: Financial Consultant
-46,100046,gpt-4.1,"Total liabilities for JetWing Aviation amounted to $200 million, reflecting the company's debt obligations at the end of the accounting period.","Total liabilities for JetWing Aviation amounted to $250 million, reflecting the company's debt obligations at the end of the accounting period."
-179,100179,gpt-4.1,"Admission Time: 1st, May","Admission Time: 2nd, May"
-100134,300002,gpt-4.1,Chief Judge: C. Ward,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith"
-100136,136,gpt-4.1,"In March 2022, in a separate incident yet continuing his trend of power misuse, Franklin Williams authorized city funds to be expended for legitimate companies he secretly controlled.","In March 2022, in a separate incident yet continuing his trend of power misuse, Franklin Williams authorized city funds to be expended for fictitious companies he secretly controlled."
-100136,136,gpt-4.1,"2. Unauthorized Budget Expenditures (March 2022):
-   Misappropriation of city funds by transferring them to legitimate companies, accompanied by forged authorization documentation.","2. Unauthorized Budget Expenditures (March 2022):
-   Misappropriation of city funds by transferring them to fictitious companies, accompanied by forged authorization documentation."
-100136,136,gpt-4.1,"(b) Audit Trails and Financial Irregularities: The financial system audit retrieved transactional data, unveiling unwarranted fund transfers to several legitimate entities with no actual business operations or city-related engagements.","(b) Audit Trails and Financial Irregularities: The financial system audit retrieved transactional data, unveiling unwarranted fund transfers to several fictitious entities with no actual business operations or city-related engagements."
-100136,300002,gpt-4.1,"Residence: 72, Brighton Street, Georgetown","Residence of F. Williams according to the court judgment of Upton, Georgetown, Court | 45, Maple Avenue, Georgetown."
-100139,139,gpt-4.1,"Accordingly, Y. Nelson is sentenced to four years of fixed-term imprisonment.","Accordingly, Y. Nelson is sentenced to three years of fixed-term imprisonment."
-100139,300002,gpt-4.1,*Defense Lawyer:* Y. Parker  *Law Firm:* Parker & Associates,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith"
-100047,47,gpt-4.1,"In October 2018, CleanCo Housekeeping Services experienced a change in senior management as Mr. David Anderson, the CEO, completed his tenure. He was succeeded by Mr. John Smith, an experienced industry professional with a proven track record of leading and expanding housekeeping companies.","In October 2018, CleanCo Housekeeping Services experienced a change in senior management as Mr. David Anderson, the CEO, completed his tenure. He was succeeded by Ms. Amanda Wilson, an experienced industry professional with a proven track record of leading and expanding housekeeping companies."
-100047,300001,gpt-4.1,"In October 2018, CleanCo Housekeeping Services experienced a change in senior management as Mr. David Anderson, the CEO, completed his tenure. He was succeeded by Mr. John Smith, an experienced industry professional with a proven track record of leading and expanding housekeeping companies.",Person who resigned from the board of directors of CleanCo Housekeeping Services in November 2018 | Mr. John Smith
-100179,300003,gpt-4.1,"Disease History: Hypertension diagnosed 5 years ago, well-controlled with medication","Past disease history of Y. Evans according to the hospitalization records of Parker General Hospital | Diabetes diagnosed 3 years ago, managed with lifestyle changes."
-100052,300001,gpt-4.1,"To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies.",Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million
-100181,300003,gpt-4.1,Age: 59,Age of J. Brooks according to the hospitalization records of Farmington General Hospital | 62
-100059,59,gpt-4.1,"Firstly, the company decided to distribute $10 million in dividends to its shareholders, enhancing shareholder returns.","Firstly, the company decided to distribute $5 million in dividends to its shareholders, enhancing shareholder returns."
-100059,300001,gpt-4.1,"Retail Emporium is a publicly traded retail company that was established in December 2005 in New York, USA, specializing in the sale of clothing, accessories, and home goods.",Month and year when Retail Emporium was established | March 2006
-100066,66,gpt-4.1,"Buildcorp Holdings, established on February 1, 2000, is a publicly listed construction company based in London, United Kingdom, specializing in commercial, residential, and infrastructure projects.","Buildcorp Holdings, established on January 1, 2000, is a publicly listed construction company based in London, United Kingdom, specializing in commercial, residential, and infrastructure projects."
-100066,300001,gpt-4.1,"In April 2018, the company completed the acquisition of 35% equity of A&B Construction, a prominent player in the industry.",Percentage of equity acquired by Buildcorp Holdings in A&B Construction | 40%
-100198,198,gpt-4.1,Marital Status: Married,Marital Status: Single
-100198,300003,gpt-4.1,"Chief Complaint:
-Tremors in hands and slow movement for 6 months",Chief complaint of K. Mendoza according to the hospitalization records of Southport General Hospital | Severe headaches and dizziness for 3 months.
-100071,71,gpt-4.1,"In terms of senior management changes, Mr. John Doe was appointed as the CEO of ABC Education Corporation in March 2021.","In terms of senior management changes, Mr. Jane Doe was appointed as the CEO of ABC Education Corporation in March 2021."
-100071,300001,gpt-4.1,"In August 2021, ABC Education Corporation welcomed Mr. John Smith to its Board of Directors.",Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe
-100072,72,gpt-4.1,"The debt to assets ratio was 0.30, highlighting the company's prudent financial leverage.","The debt to assets ratio was 0.25, highlighting the company's prudent financial leverage."
-100072,300001,gpt-4.1,"One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April.",Company acquired by MediaCorp in April 2018 | Creative Studios
-100199,199,gpt-4.1,"Severe headache, high fever, and neck stiffness for 3 days.","Severe headache, high fever, and neck stiffness for 2 days."
-100199,300003,gpt-4.1,"Preliminary Diagnosis:
-Epidemic Cerebrospinal Meningitis",Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis
-100077,77,gpt-4.1,"In February 2019, Energen Solutions Ltd underwent a significant revision of its corporate governance policy, aligning it with best practices in the industry.","In January 2019, Energen Solutions Ltd underwent a significant revision of its corporate governance policy, aligning it with best practices in the industry."
-100077,77,gpt-4.1,"In December 2019, Energen Solutions Ltd experienced a change in its senior management with the appointment of Ms. Linda Anderson as the new CEO.","In February, the company also experienced a change in senior management, with the appointment of a new CEO and CFO who brought extensive expertise in the renewable energy sector."
-100077,300001,gpt-4.1,"In June, the company acquired 30% equity of SunPower Corp for $350 million, expanding its market share and enhancing its control.",Percentage of SunPower Corp acquired by Energen Solutions Ltd in June 2019 | 45%
-100078,78,gpt-4.1,"In December 2019, InnovateTech acquired GameWorld Studios, a renowned mobile gaming company, for $60 million.","In December 2019, InnovateTech acquired DreamLife Studios, a renowned mobile gaming company, for $60 million."
-100078,300001,gpt-4.1,"In November 2019, InnovateTech made a major investment of $20 million in Project Ampere, a ground-breaking social media analytics platform.","Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd."
-100079,79,gpt-4.1,"To optimize its capital structure, Elevate Retail Inc. underwent debt restructuring in August 2020, reducing its liabilities by $20 million.","To optimize its capital structure, Elevate Retail Inc. underwent debt restructuring in August 2020, reducing its liabilities by $15 million."
-100079,300001,gpt-4.1,"Moreover, Elevate Retail made a significant investment in renewable energy projects in May 2020.","Month, in which Elevate Retail Inc. invested in renewable energy projects | August 2021"
-100208,300003,gpt-4.1,"Hypertension for 10 years, well controlled with medication.",Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years
-100209,209,gpt-4.1,Marital Status: Married,Marital Status: Widowed
-100209,300003,gpt-4.1,Ethnicity: Caucasian,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic
-100207,207,gpt-4.1,Age: 35,Age: 30
-100207,300003,gpt-4.1,Occupation: Teacher,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer
-100205,205,gpt-4.1,Marital Status: single,Marital Status: married
-100205,205,gpt-4.1,"Marital Status: Single
-Marriage Age: 30
-Spouse's Health Condition: Good health
-Children's Condition: Two children, both in good health","Marital Status: Married
-Marriage Age: 30
-Spouse's Health Condition: Good health
-Children's Condition: Two children, both in good health"
-100205,300003,gpt-4.1,Temperature: 37.6°C,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C
-100212,212,gpt-4.1,Age: 53,Age: 52
-100212,300003,gpt-4.1,"Chief Complaint:
-Persistent joint pain and morning stiffness for 6 months",Chief complaint of J. Reyes according to the hospitalization records of Bridgewater General Hospital | Severe headaches and dizziness for 3 months.
-100211,211,gpt-4.1,"Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 2 days ago.","Hemolysis, fatigue, and abdominal pain after consuming fresh fava beans 1 day ago."
-100211,300003,gpt-4.1,"Admission Time: 27th, January","Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February"
-100112,112,gpt-4.1,"The cumulative actions of the defendant have resulted in the misappropriation of $750,000 in total, as documented in the forensic financial audit reports and corroborated by testimonies from municipal staff, bank transfer records, ledgers, and other significant pieces of evidence.","The cumulative actions of the defendant have resulted in the misappropriation of $700,000 in total, as documented in the forensic financial audit reports and corroborated by testimonies from municipal staff, bank transfer records, ledgers, and other significant pieces of evidence."
-100112,112,gpt-4.1,"- Magnitude of Embezzlement: The cumulative amount embezzled by V. Martin stands at $750,000, signifying a substantial financial loss to municipal resources allocated for critical public services.","- Magnitude of Embezzlement: The cumulative amount embezzled by V. Martin stands at $700,000, signifying a substantial financial loss to municipal resources allocated for critical public services."
-100112,300002,gpt-4.1,"**Date:** 10th October, 2022
-
-**Chief Judge:**  
-N. Harris  
-
-**Judge:**  
-V. Robinson  
-
-**Court Clerk:**  
-A. Wood  ","Date of the court judgment of Bayside, Roseville, Court | 15th November, 2022"
-100112,300002,gpt-4.1,"**Date:** 10th October, 2022
-
-**Chief Judge:**  
-N. Harris  
-
-**Judge:**  
-V. Robinson  
-
-**Court Clerk:**  
-A. Wood  ","Chief judge according to the court judgment of Bayside, Roseville, Court | J. Smith"
-100114,114,gpt-4.1,Presiding Judge: J. Smith,Presiding Judge: P. Reyes
-100115,115,gpt-4.1,"At approximately 21:30 hrs, J. Hall was seen following R. Johnson to his residence located at 60 Elm Street, Belmont.","At approximately 21:30 hrs, J. Hall was seen following R. Johnson to his residence located at 50 Elm Street, Belmont."
-100115,300002,gpt-4.1,"On the evening of 10th July, 2022, at approximately 20:00 hrs, J. Hall and R. Johnson were seen at Coffeescape Café. Witnesses reported that an intense verbal confrontation ensued between them.","Location where J. Hall had a heated argument with R. Johnson according to the judgment of Urbana, Belmont, Court | Central Park"
-100119,119,gpt-4.1,"Date of Birth: 19th July, 1964","Date of Birth: 18th July, 1964"
-100119,300002,gpt-4.1,"Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000.","Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000."
-100123,123,gpt-4.1,"Residence: 22, Maple Avenue, Quarryville","Residence: 18, Elmwood Street, Quarryville"
-100123,300002,gpt-4.1,"- A fine of $100,000","Fine imposed on Z. Torres according to the court judgment of Sterling, Quarryville, Court | $150,000"
-100125,125,gpt-4.1,"Defendant:
-
-    
-**Name:** J. Smith","Defendant:
-
-    
-**Name:** M. Cooper"
-100125,125,gpt-4.1,"On the 12th day of February 2022, the criminal case involving the defendant J. Smith was formally documented and filed by the Hartford Ashland Procuratorate following preliminary inquiries, complaint lodging, and review of initial evidence.","On the 12th day of February 2022, the criminal case involving the defendant M. Cooper was formally documented and filed by the Hartford Ashland Procuratorate following preliminary inquiries, complaint lodging, and review of initial evidence."
-100125,125,gpt-4.1,"On the 15th day of February 2022, the relevant authorities undertook and implemented appropriate detention measures to preclude any potential tampering with evidence or witness intimidation by the defendant.","On the 15th day of February 2022, the relevant authorities undertook and implemented appropriate detention measures to preclude any potential tampering with evidence or witness intimidation by the defendant."
-100125,125,gpt-4.1,"On the 18th day of February 2022, the accused, J. Smith, was subjected to criminal detention as the collected evidence suggested significant culpability, warranting continued custody of the defendant.","On the 18th day of February 2022, the accused, M. Cooper, was subjected to criminal detention as the collected evidence suggested significant culpability, warranting continued custody of the defendant."
-100125,125,gpt-4.1,"On the 20th day of February 2022, an arrest warrant was issued, and J. Smith was formally placed under arrest in compliance with procedural legislation, thereby ensuring the prevention of flight risk and furtherance of justice.","On the 20th day of February 2022, an arrest warrant was issued, and M. Cooper was formally placed under arrest in compliance with procedural legislation, thereby ensuring the prevention of flight risk and furtherance of justice."
-100125,125,gpt-4.1,"The defendant, J. Smith, held the designation of Construction Site Manager at the construction project located at 45, Elm Street, Ashland.","The defendant, M. Cooper, held the designation of Construction Site Manager at the construction project located at 45, Elm Street, Ashland."
-100125,125,gpt-4.1,"The defendant, J. Smith, exhibited a lack of due diligence and improper supervision concerning the erection and securing of scaffolding on the construction site.","The defendant, M. Cooper, exhibited a lack of due diligence and improper supervision concerning the erection and securing of scaffolding on the construction site."
-100125,125,gpt-4.1,"Despite receiving multiple warnings and notifications from the project engineer and site safety officer regarding the inherent instability and potential dangers posed by the scaffolding, the defendant neglected to undertake or implement any corrective measures. J. Smith's disregard for these explicit warnings constituted gross negligence.","Despite receiving multiple warnings and notifications from the project engineer and site safety officer regarding the inherent instability and potential dangers posed by the scaffolding, the defendant neglected to undertake or implement any corrective measures. M. Cooper's disregard for these explicit warnings constituted gross negligence."
-100125,125,gpt-4.1,"At approximately 2:45 PM, the compromised scaffolding structure collapsed, resulting in the catastrophic accident and immediate fatality of a construction worker named J. Harris.","At approximately 2:45 PM, the compromised scaffolding structure collapsed, resulting in the catastrophic accident and immediate fatality of a construction worker named J. Harris."
-100125,125,gpt-4.1,"Consequently, the defendant, J. Smith, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident.","Consequently, the defendant, M. Cooper, was indicted and charged with the Crime of Negligent Homicide, as stipulated under Article No. 133, acknowledging the defendant's supervisory role and negligence as directly contributory to the fatal incident."
-100125,125,gpt-4.1,"Comprehensive inspection reports spanning multiple dates elaborated on the structural inadequacies and non-compliance of the scaffolding setup, directly implicating the site management under J. Smith's purview.","Comprehensive inspection reports spanning multiple dates elaborated on the structural inadequacies and non-compliance of the scaffolding setup, directly implicating the site management under M. Cooper's purview."
-100125,125,gpt-4.1,"The site’s safety officer provided detailed testimonies affirming the issuance of multiple safety warnings, the nature of communications with J. Smith, and observations of the defendant's inaction concerning rectifying the identified hazards.","The site’s safety officer provided detailed testimonies affirming the issuance of multiple safety warnings, the nature of communications with M. Cooper, and observations of the defendant's inaction concerning rectifying the identified hazards."
-100125,125,gpt-4.1,"Secure communications between the project engineer and J. Smith dated 10th February 2022 delineated explicit warnings and professional recommendations for immediate corrective actions, regrettably ignored by the defendant.","Secure communications between the project engineer and M. Cooper dated 10th February 2022 delineated explicit warnings and professional recommendations for immediate corrective actions, regrettably ignored by the defendant."
-100125,125,gpt-4.1,"Recorded telephonic conversations documented on 10th February 2022 served as critical evidence, reflecting the project engineer's desperate attempts to convey the urgency and severity of the scaffolding issue to J. Smith.","Recorded telephonic conversations documented on 10th February 2022 served as critical evidence, reflecting the project engineer's desperate attempts to convey the urgency and severity of the scaffolding issue to M. Cooper."
-100125,125,gpt-4.1,"Direct testimonies from three construction workers offered a chronological narrative of preceding events, detailing the verbal warnings ignored by J. Smith and the observable negligence in implementing required safety measures.","Direct testimonies from three construction workers offered a chronological narrative of preceding events, detailing the verbal warnings ignored by M. Cooper and the observable negligence in implementing required safety measures."
-100125,125,gpt-4.1,The autopsy report confirmed the cause of J. Harris's death attributable to fatal injuries sustained during the scaffolding collapse. The death certificate authenticated the time and circumstances surrounding the untimely demise.,The autopsy report confirmed the cause of J. Harris's death attributable to fatal injuries sustained during the scaffolding collapse. The death certificate authenticated the time and circumstances surrounding the untimely demise.
-100125,125,gpt-4.1,"Uninterrupted security camera footage further solidified the sequence of events, depicting the collapse's precise moment and the perilous conditions leading up to the tragic incident.","Uninterrupted security camera footage further solidified the sequence of events, depicting the collapse's precise moment and the perilous conditions leading up to the tragic incident."
-100125,125,gpt-4.1,"The defendant's position of responsibility and failure to act upon critical safety warnings magnifies the negligence, directly causing a significant loss of life.","The defendant's position of responsibility and failure to act upon critical safety warnings magnifies the negligence, directly causing a significant loss of life."
-100125,125,gpt-4.1,"However, it's notable that J. Smith exhibited a cooperative demeanor throughout the investigation, possessed no prior criminal record, and demonstrated genuine remorse post-incident.","However, it's notable that M. Cooper exhibited a cooperative demeanor throughout the investigation, possessed no prior criminal record, and demonstrated genuine remorse post-incident."
-100125,125,gpt-4.1,"In accordance with the prosecution's submission, comprehensive analysis of the evidence, and bearing in mind the prescribed legal provisions, this Court imposes the following judgment upon the defendant, J. Smith:
-
-For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:
-
-    **Four years of fixed-term imprisonment**","In accordance with the prosecution's submission, comprehensive analysis of the evidence, and bearing in mind the prescribed legal provisions, this Court imposes the following judgment upon the defendant, M. Cooper:
-
-For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to:
-
-    **Four years of fixed-term imprisonment**"
-100125,125,gpt-4.1,"This Court informs the defendant, J. Smith, of the legal right to appeal the judgment and sentence within 30 days from the date of this judgment as per statutory provisions.","This Court informs the defendant, M. Cooper, of the legal right to appeal the judgment and sentence within 30 days from the date of this judgment as per statutory provisions."
-100125,300002,gpt-4.1,**Date of Judgment:** 15th August 2022,"Date of the court judgment of Hartford, Ashland, Court | 20th September 2022"
-100125,300002,gpt-4.1,**Chief Judge:** Z. Kelly,"Chief judge according to the court judgment of Hartford, Ashland, Court | J. Smith"
-100127,127,gpt-4.1,"The charge put forward by the prosecution was one of a Crime of Negligent Manslaughter, as delineated under Article 133.","The charge put forward by the prosecution was one of a Crime of Negligent Homicide, as delineated under Article 133."
-100127,127,gpt-4.1,"Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Manslaughter pursuant to Article 133.","Thus, in light of the above considerations and the detailed examination of evidence, this court hereby finds M. Ward guilty of the Crime of Negligent Homicide pursuant to Article 133."
-100127,300002,gpt-4.1,"Chief Judge: 
-T. Rivera","Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith"
 400128,128,gpt-4.1,"The proceedings were overseen by Chief Judge O. Edwards, supported by Judge W. Hernandez and Court Clerk H. White.","Chief Judge: W. Hernandez  
 Judge: O. Edwards  
 Court Clerk: H. White"
@@ -358,95 +231,167 @@ Osteosarcoma ruled out due to limited periosteal reaction scope."
 400059,59,gpt-4.1,"In January, Retail Emporium achieved remarkable milestones in sustainability, including a 10% reduction in carbon emissions through energy-efficient practices.","In January, Retail Emporium achieved remarkable milestones in sustainability, including a 20% reduction in carbon emissions through energy-efficient practices."
 400059,59,gpt-4.1,The appointment of Mr. John Doe as a new board member in July brought extensive retail experience and strategic insights to the company.,"The appointment of Ms. Sarah Johnson as a new board member in July brought extensive retail experience and strategic insights to the company, positively impacting its future direction."
 400059,59,gpt-4.1,"The company's financial indicators for 2020 were strong, with an operating income of $550 million and a net profit of $50 million, driven by various strategic moves and operational efficiencies.","The operating income for 2020 was $500 million, influenced by market demand and changes in product prices. The net profit for the same period was $50 million, influenced by operating income, cost control, and non-recurring gains and losses."
-300001,46,gpt-4.1,Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million,"In January 2021, the company successfully executed a debt restructuring strategy, reducing its liabilities by $50 million."
-300001,47,gpt-4.1,Person who resigned from the board of directors of CleanCo Housekeeping Services in November 2018 | Mr. John Smith,"In November 2018, there was also a change in the board of directors with the resignation of Ms. Emily Carter and the appointment of Mr. Michael Evans."
-300001,52,gpt-4.1,Month and year when Retail Emporium was established | March 2006,"EduCorp, established on March 1, 2005, is an education company that offers educational services through online platforms and physical learning centers, headquartered in the City of Education, Country A."
-300001,52,gpt-4.1,Amount by which EduCorp reduced its liabilities during the debt restructuring in March 2020 | $8 million,"To optimize its capital structure, EduCorp underwent debt restructuring in March 2020, reducing its liabilities by $5 million through debt renegotiations and repayment strategies."
-300001,59,gpt-4.1,Month and year when Retail Emporium was established | March 2006,"Retail Emporium is a publicly traded retail company that was established in December 2005 in New York, USA, specializing in the sale of clothing, accessories, and home goods."
-300001,66,gpt-4.1,Percentage of equity acquired by Buildcorp Holdings in A&B Construction | 40%,"In April 2018, the company completed the acquisition of 35% equity of A&B Construction, a prominent player in the industry."
-300001,71,gpt-4.1,Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe,"In August 2021, ABC Education Corporation welcomed Mr. John Smith to its Board of Directors."
-300001,71,gpt-4.1,Person added to the Board of Directors of ABC Education Corporation in August 2021 | Ms. Jane Doe,"In terms of senior management changes, Mr. Jane Doe was appointed as the CEO of ABC Education Corporation in March 2021."
-300001,72,gpt-4.1,Company acquired by MediaCorp in April 2018 | Creative Studios,"One of the major highlights was the acquisition of Big Pictures, a renowned film production company, in April. This asset acquisition, valued at $100 million, allowed MediaCorp to broaden its business scope and tap into the lucrative film industry."
-300001,77,gpt-4.1,Percentage of SunPower Corp acquired by Energen Solutions Ltd in June 2019 | 45%,"In June, the company acquired 30% equity of SunPower Corp for $350 million, expanding its market share and enhancing its control."
-300001,78,gpt-4.1,"Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd.","In November 2019, InnovateTech made a major investment of $20 million in Project Ampere, a ground-breaking social media analytics platform. This investment expanded InnovateTech's business areas, enhanced profitability, and diversified its product offerings."
-300001,78,gpt-4.1,"Significant corporate event completed by InnovateTech, Inc. in November 2019 | Merger with TechFusion Ltd.","In November, InnovateTech successfully completed its Initial Public Offering (IPO), generating funds for expansion and increasing market visibility. This IPO provided capital for business growth and enhanced the company's reputation as a publicly traded entity."
-300001,79,gpt-4.1,Month and year when Retail Emporium was established | March 2006,"Elevate Retail Inc., established on June 1, 2005, is a prominent retail company listed on the New York Stock Exchange (NYSE) and specializes in the sale of fashion apparel, accessories, and home goods."
-300001,79,gpt-4.1,"Month, in which Elevate Retail Inc. invested in renewable energy projects | August 2021","Moreover, Elevate Retail made a significant investment in renewable energy projects in May 2020. This investment not only mitigates the company's environmental impact but also demonstrates their financial support for sustainable energy solutions."
-300002,134,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith",Chief Judge: C. Ward
-300002,134,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","This court hereby sentences P. Anderson to five years of imprisonment and imposes a fine of $300,000."
-300002,136,gpt-4.1,"Residence of F. Williams according to the court judgment of Upton, Georgetown, Court | 45, Maple Avenue, Georgetown.","**Residence:** 72, Brighton Street, Georgetown"
-300002,136,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith","**Judge Presiding:** Chief Judge O. Nelson, Judge H. Alvarez"
-300002,136,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith","**Judge Presiding:** Chief Judge O. Nelson, Judge H. Alvarez"
-300002,136,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith","**Judge Presiding:** Chief Judge O. Nelson, Judge H. Alvarez"
-300002,136,gpt-4.1,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",*Defense Lawyer:*  **Name:** Diego Diaz  **Law Firm:** Georgetown & Associates Law Firm
-300002,136,gpt-4.1,"Date of the court judgment of Upton, Georgetown, Court | (not specified in Document 1)","**Date of Judgment:** 30th, September, 2023"
-300002,139,gpt-4.1,"Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",*Defense Lawyer:* Y. Parker
-300002,139,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith
-...
-Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith
-...
-Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith
-...
-Defense lawyer for Y. Nelson according to the judgment of Glenwood, Quailwood, Court | J. Smith",*Chief Judge:* Hon. H. Ruiz
-300002,112,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith",**Chief Judge:**  N. Harris
-300002,112,gpt-4.1,"Date of the court judgment of Bayside, Roseville, Court | 15th November, 2022","**Date:** 10th October, 2022"
-300002,112,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith",**Chief Judge:**  N. Harris
-300002,112,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith",**Chief Judge:**  N. Harris
-300002,114,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith",Presiding Judge: P. Reyes
-300002,114,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith","Signed:  P. Reyes, Presiding Judge  N. Mendoza, Associate Judge  Z. Davis, Court Clerk  Trenton, Eastwood Court  Dated: 5th March 2023"
-300002,115,gpt-4.1,"Chief judge according to the court judgment of Danbury, Pinehurst, Court | J. Smith","This case was tried before the Urbana, Belmont Court, presided over by Chief Judge E. Johnson and Judge W. Flores."
-300002,115,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith","This case was tried before the Urbana, Belmont Court, presided over by Chief Judge E. Johnson and Judge W. Flores."
-300002,115,gpt-4.1,"Name of the chief judge according to the court judgment of Trenton, Eastwood, Court | J. Smith","This case was tried before the Urbana, Belmont Court, presided over by Chief Judge E. Johnson and Judge W. Flores."
-300002,115,gpt-4.1,"Location where J. Hall had a heated argument with R. Johnson according to the judgment of Urbana, Belmont, Court | Central Park","On the evening of 10th July, 2022, at approximately 20:00 hrs, J. Hall and R. Johnson were seen at Coffeescape Café. Witnesses reported that an intense verbal confrontation ensued between them."
-300002,119,gpt-4.1,"Chief judge according to the court judgment of Riverton, Hamilton, Court | J. Smith","Chief Judge:
-Z. Rodriguez"
-300002,119,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000."
-300002,123,gpt-4.1,"Fine imposed on Z. Torres according to the court judgment of Sterling, Quarryville, Court | $150,000","Sentence:
-
-- Five years of fixed-term imprisonment
-- A fine of $100,000"
-300002,123,gpt-4.1,"Chief judge according to the court judgment of Sterling, Quarryville, Court | J. Smith",Chief Judge: H. Nguyen
-300002,125,gpt-4.1,"Date of the court judgment of Hartford, Ashland, Court | 20th September 2022",**Date of Judgment:** 15th August 2022
-300002,125,gpt-4.1,"Chief judge according to the court judgment of Hartford, Ashland, Court | J. Smith",**Chief Judge:** Z. Kelly
-300002,125,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","For the charge of **Negligent Homicide** as per Article No. 133, the defendant is sentenced to: **Four years of fixed-term imprisonment**"
-300002,127,gpt-4.1,"Chief judge according to the court judgment of Hamilton, Harrison, Court | J. Smith",Chief Judge: T. Rivera
-300003,179,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
-300003,179,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Teacher
-300003,179,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,Temperature: 98.6°F
-300003,179,gpt-4.1,"Past disease history of Y. Evans according to the hospitalization records of Parker General Hospital | Diabetes diagnosed 3 years ago, managed with lifestyle changes.","Disease History: Hypertension diagnosed 5 years ago, well-controlled with medication"
-300003,181,gpt-4.1,Age of J. Brooks according to the hospitalization records of Farmington General Hospital | 62,Age: 59
-300003,181,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
-300003,181,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Retired
-300003,181,gpt-4.1,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February",Admission Time: 23rd November
-300003,198,gpt-4.1,Chief complaint of K. Mendoza according to the hospitalization records of Southport General Hospital | Severe headaches and dizziness for 3 months.,"Chief Complaint:
-Tremors in hands and slow movement for 6 months"
-300003,198,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Preliminary Diagnosis:
-Primary: Parkinson's Disease"
-300003,198,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Latino
-300003,198,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Software Engineer
-300003,198,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,Temperature: 98.6°F
-300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Preliminary Diagnosis:
-Epidemic Cerebrospinal Meningitis"
-300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Consultation Records: Neurology consult confirmed bacterial meningitis, discussed ongoing management."
-300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"Differential Diagnosis:
-Japanese encephalitis (ruled out due to presence of skin petechiae and bacterial CSF findings), common cold (ruled out due to severity and CSF findings)."
-300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"CSF analysis: Elevated WBC, high protein, low glucose, culture pending."
-300003,199,gpt-4.1,Initial diagnosis of H. Flores according to the hospitalization records of Wilton General Hospital | Viral Encephalitis,"CSF analysis report: WBC 1200/µL, protein 150 mg/dL, glucose 30 mg/dL."
-300003,208,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
-300003,208,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Retired Teacher
-300003,208,gpt-4.1,Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years,"Disease History: Hypertension for 10 years, well controlled with medication."
-300003,209,gpt-4.1,Ethnicity of S. Moore according to the hospitalization records of Knoxville City Hospital | Hispanic,Ethnicity: Caucasian
-300003,209,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,"Occupation and Working Conditions:
-Former elementary school teacher."
-300003,207,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation and Working Conditions: Full-time teacher with moderate stress levels
-300003,207,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: Teacher
-300003,205,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,Temperature: 37.6°C
-300003,205,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation: teacher
-300003,205,gpt-4.1,Occupation of E. Chavez according to the hospitalization records of Kingsport Medical Center | Engineer,Occupation and Working Conditions: High school teacher; moderate stress environment
-300003,212,gpt-4.1,Chief complaint of J. Reyes according to the hospitalization records of Bridgewater General Hospital | Severe headaches and dizziness for 3 months.,"Chief Complaint:
-Persistent joint pain and morning stiffness for 6 months"
-300003,212,gpt-4.1,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February","Admission Time: 7th, September"
-300003,212,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,"General Condition:
-- Temperature: 37.2°C"
-300003,211,gpt-4.1,"Admission time for X. Price according to the hospitalization records of Tremont City Hospital | 15th, February","Admission Time: 27th, January"
-300003,211,gpt-4.1,Temperature of G. Gonzalez during the physical examination according to the hospitalization records of Oxford General Hospital | 38.2°C,"Jan 27: Temp 38°C, Pulse 105 bpm, Respiration 24 bpm, BP 110/70 mmHg."
+100046,46,gpt-4.1,"Total liabilities for JetWing Aviation amounted to $250 million, reflecting the company's debt obligations at the end of the accounting period.","Total liabilities for JetWing Aviation amounted to $200 million, reflecting the company's debt obligations at the end of the accounting period."
+100046,300002,gpt-4.1,"One of the key sub-events was the expansion of the company's fleet in March 2021. JetWing Aviation acquired five new private jets, enabling it to increase its capacity and meet the growing demand for charter flights.",Number of new private jets acquired by JetWing Aviation in March 2021 | Seven
+100071,71,gpt-4.1,"In terms of senior management changes, Mr. John Doe was appointed as the CEO of ABC Education Corporation in March 2021.","In terms of senior management changes, Mr. Jane Doe was appointed as the CEO of ABC Education Corporation in March 2021."
+100071,300002,gpt-4.1,"In April 2021, ABC Education Corporation formed a strategic partnership with a technology firm to leverage its expertise in educational software.","Month and year in which ABC Education Corporation formed a strategic partnership with a technology firm | June, 2021"
+100208,300001,gpt-4.1,"Disease History: Hypertension for 10 years, well controlled with medication.",Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years
+100119,119,gpt-4.1,"Date of Birth: 19th July, 1964","Date of Birth: 18th July, 1964"
+100119,300003,gpt-4.1,"Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000.","Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000."
+100123,123,gpt-4.1,"Residence: 22, Maple Avenue, Quarryville","Residence: 18, Elmwood Street, Quarryville"
+100123,300003,gpt-4.1,"On the 25th of January, 2023, after gathering more substantial evidence on the illicit activities, a formal arrest was made. Z. Torres was subsequently charged with the crime of selling counterfeit registered trademark goods, pursuant to Article No. 214.","Date when Z. Torres was formally arrested according to the court judgment of Sterling, Quarryville, Court | 30th, January, 2023"
+100111,111,gpt-4.1,**Occupation:** Project Manager at Sterling Public Works Department,**Occupation:** Accountant at Sterling Public Works Department
+100111,111,gpt-4.1,Mr. Adams's breach of trust placed in him by his official position as a project manager mandated a severe stance.,Mr. Adams's breach of trust placed in him by his official position as an accountant mandated a severe stance.
+100111,300003,gpt-4.1,"In an act of blatant embezzlement, Mr. Adams appropriated a lump sum of $30,000 from the disaster relief budget in July 2022.","Amount embezzled by N. Adams in July 2022 according to the court judgment of Brighton, Sterling, Court | $45,000"
+100111,300003,gpt-4.1,**Chief Judge:** I. Ward,"Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith"
+100113,113,gpt-4.1,"the defendant has the right to file an appeal against this judgment within 60 days of the judgment date, 30th June 2023.","the defendant has the right to file an appeal against this judgment within 60 days of the judgment date, 25th June 2023."
+100113,113,gpt-4.1,"This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 30th of June, 2023.","This judgment is issued and entered into the records of the Preston, Lancaster, Court on the 25th of June, 2023."
+100113,300003,gpt-4.1,Chief Judge: Q. Gray,"Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith"
+100122,122,gpt-4.1,**Judgment Issued on 25th March 2023**,**Judgment Issued on 20th March 2023**
+100122,300003,gpt-4.1,G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods.,"Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud"
+100124,124,gpt-4.1,Defendant Name: D. Morgan,Defendant Name: C. Taylor
+100124,124,gpt-4.1,"D. Morgan, born on 19th October 1960, currently residing at 71 Yorkshire Street, Unionville, and employed as a retail shop owner, is accused of the crime of selling counterfeit registered trademark goods, contrary to Article No. 214.","C. Taylor, born on 19th October 1960, currently residing at 71 Yorkshire Street, Unionville, and employed as a retail shop owner, is accused of the crime of selling counterfeit registered trademark goods, contrary to Article No. 214."
+100124,124,gpt-4.1,"The defendant’s retail establishment, situated at 25 Baker Street, Unionville, became a subject of scrutiny following complaints lodged by well-known brand owners.","The defendant’s retail establishment, situated at 25 Baker Street, Unionville, became a subject of scrutiny following complaints lodged by well-known brand owners."
+100124,124,gpt-4.1,"D. Morgan is hereby informed of her right to appeal this judgment. Should the defendant wish to challenge this verdict, an appeal must be instituted within ten days from the date this judgment is delivered. The appeal should be submitted to the Norwood, Unionville Court or the appropriate appellate court as per established procedures. The defendant remains entitled to legal representation throughout the appeals process and is urged to consult with her defense lawyer, P. Clark, of Unionville Legal Associates, to discuss the potential grounds and implications of an appeal.","C. Taylor is hereby informed of her right to appeal this judgment. Should the defendant wish to challenge this verdict, an appeal must be instituted within ten days from the date this judgment is delivered. The appeal should be submitted to the Norwood, Unionville Court or the appropriate appellate court as per established procedures. The defendant remains entitled to legal representation throughout the appeals process and is urged to consult with her defense lawyer, P. Clark, of Unionville Legal Associates, to discuss the potential grounds and implications of an appeal."
+100124,300003,gpt-4.1,"This judgment is delivered and executed on this 10th day of January 2023, by the Norwood, Unionville Court, with the presence and consent of the Chief Judge T. Robinson, Judge N. Cook, and Court Clerk O. Murphy.","Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023"
+100129,129,gpt-4.1,"Consequently, this court sentences G. Torres to six years of fixed-term imprisonment.","Consequently, this court sentences G. Torres to four years of fixed-term imprisonment."
+100129,300003,gpt-4.1,"Based on the evidence presented and the legal arguments made, this court finds G. Torres guilty of the Crime of Traffic Accident as per Article No. 133.","Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud"
+100131,131,gpt-4.1,Defendant: S. Taylor,Defendant: X. Morgan
+100131,300003,gpt-4.1,**Count**: Crime of Evading Tax Arrears Recovery under Article 203,"Crime committed by X. Morgan according to the court judgment of Riverside, Glenwood, Court | Crime of Fraudulent Accounting Practices"
+100135,135,gpt-4.1,"**Date of Judgment:**
+20th May 2023","**Date of Judgment:**
+15th May 2023"
+100135,300003,gpt-4.1,This court hereby sentences J. Gonzalez to five years of fixed-term imprisonment.,"Sentence for J. Gonzalez according to the court judgment of Ashton, Clarksville, Court | 3 years of probation"
+100138,138,gpt-4.1,The defendant is hereby sentenced to one year of fixed-term imprisonment.,The defendant is hereby sentenced to three years of fixed-term imprisonment.
+100178,178,gpt-4.1,Diagnosis and Treatment History: Underwent endoscopy showing obstructive mass. Biopsy confirmed esophageal stricture. Initiated on palliative chemotherapy with partial response.,Diagnosis and Treatment History: Underwent endoscopy showing obstructive mass. Biopsy confirmed esophageal malignancy. Initiated on palliative chemotherapy with partial response.
+100178,178,gpt-4.1,Auxiliary Examination: CT scan showing narrowing of the esophagus with suspicious mass. Biopsy confirmed stricture.,Auxiliary Examination: CT scan showing narrowing of the esophagus with suspicious mass. Biopsy confirmed malignancy.
+100178,178,gpt-4.1,Preliminary Diagnosis: Benign Esophageal Stricture,Preliminary Diagnosis: Esophageal Malignancy
+100178,178,gpt-4.1,"Diagnostic Basis: Based on dysphagia, chest pain, endoscopic findings, and biopsy results.","Diagnostic Basis: Based on dysphagia, chest pain, endoscopic findings, and biopsy results."
+100178,178,gpt-4.1,"Differential Diagnosis: Malignant esophageal tumor (ruled out by biopsy), achalasia (ruled out by progression and biopsy), esophageal diverticulum (ruled out by endoscopy), esophageal tuberculosis (ruled out by biopsy).","Differential Diagnosis: Benign esophageal stricture (ruled out by biopsy), achalasia (ruled out by progression and biopsy), esophageal diverticulum (ruled out by endoscopy), esophageal tuberculosis (ruled out by biopsy)."
+100178,178,gpt-4.1,Surgery Records: Palliative esophagectomy performed. Stricture reduced but not fully resectable.,Surgery Records: Palliative esophagectomy performed. Tumor reduced but not fully resectable.
+100178,178,gpt-4.1,"Death Records: Time of death: 5:40 PM, 15th, August. Cause: Complications from benign esophageal stricture. Attending Physician: Dr. A. Smith","Death Records: Time of death: 5:40 PM, 15th, August. Cause: Complications from advanced esophageal malignancy. Attending Physician: Dr. A. Smith"
+100178,178,gpt-4.1,"DiseaseType:
+Benign Tumors:
+Name: Esophageal Stricture
+Symptoms: Dysphagia (difficulty swallowing or feeling of obstruction when food moves down the esophagus, initially for solid food, later for semi-solid food, and finally for liquid food and saliva, indicating a progressive benign course rather than spasm, malignant or digestive strictures); chest pain often radiating to the back.
+Differential Diagnosis: Malignant esophageal tumor, achalasia, esophageal diverticulum, esophageal tuberculosis, etc.","DiseaseType:
+Malignant Tumors:
+Name: Esophageal Malignancy
+Symptoms: Dysphagia (difficulty swallowing or feeling of obstruction when food moves down the esophagus, initially for solid food, later for semi-solid food, and finally for liquid food and saliva, indicating a progressive malignant course rather than spasm, benign or digestive strictures); chest pain often radiating to the back.
+Differential Diagnosis: Benign esophageal stricture, achalasia, esophageal diverticulum, esophageal tuberculosis, etc."
+100178,300001,gpt-4.1,"Chief Complaint:
+Dysphagia and chest pain for the past 4 months",Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.
+100182,182,gpt-4.1,"Chief Complaint: Local redness, swelling, heat, and pain on the left forearm for 3 days.","Chief Complaint: Local redness, swelling, heat, and pain on the right forearm for 3 days."
+100182,182,gpt-4.1,"Main Symptoms: Localized redness, swelling, heat, and pain on the right forearm.","Main Symptoms: Localized redness, swelling, heat, and pain on the right forearm."
+100182,182,gpt-4.1,"Skin: Erythema, heat, swelling, and tenderness over the right forearm, approximately 2 cm in diameter","Skin: Erythema, heat, swelling, and tenderness over the right forearm, approximately 2 cm in diameter"
+100182,300001,gpt-4.1,Historian: Mother: Maria Rodriguez,Historian for J. Rodriguez according to the hospitalization records of Granville General Hospital | Father: Juan Rodriguez.
+100185,185,gpt-4.1,Age: 12,Age: 10
+100185,300001,gpt-4.1,"Chief Complaint:
+Ear discharge, hearing loss, and severe headache for 2 weeks",Chief complaint of I. Thomas according to the hospitalization records of Bridgewater General Hospital | Persistent cough and shortness of breath for 3 weeks.
+100191,300001,gpt-4.1,Age: 13,Age of O. Myers according to the hospitalization records of Clarksville General Hospital | 15
+100195,195,gpt-4.1,"Admission Time: 10th, October","Admission Time: 9th, October"
+100195,300001,gpt-4.1,"Chief Complaint:
+Fever, abdominal pain, and bloody stools for 1 week",Chief complaint of A. Smith according to the hospitalization records of Farmington City Hospital | Severe headache and dizziness for 3 days
+100197,300001,gpt-4.1,Long-term Orders: Oral Iron supplements 200 mg twice daily.,Prescribed long-term medication for O. Richardson according to the hospitalization records of Lakeside General Hospital | Vitamin D supplements 1000 IU daily
+100201,201,gpt-4.1,Age: 42,Age: 36
+100201,201,gpt-4.1,First Course Record: The patient is a 42-year-old male with a 2-month history of uterine bleeding and a palpable abdominal mass.,First Course Record: The patient is a 36-year-old male with a 2-month history of uterine bleeding and a palpable abdominal mass.
+100201,300001,gpt-4.1,"Chief Complaint:
+Uterine bleeding and abdominal mass for 2 months",Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.
+100201,300001,gpt-4.1,"Main Symptoms: Patient presents with lower abdominal mass and uterine bleeding. The mass is non-tender, firm, and has progressively increased in size over the past 2 months. Uterine bleeding is intermittent, moderate in volume, and has persisted for 2 months.",Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.
+100206,206,gpt-4.1,Age: 66,Age: 76
+100206,300001,gpt-4.1,Gender: female,Gender of O. Price according to the hospitalization records of Victoria General Hospital | Male
+100210,300001,gpt-4.1,"Birthplace:
+Clearwater",Birthplace of J. Alvarez according to the hospitalization records of Clearwater General Hospital | Springfield
+100041,41,gpt-4.1,"Finally, in December 2019, Entertainment Enterprises Inc. appointed David Lee as its new Chief Executive Officer.","Finally, in December 2019, Entertainment Enterprises Inc. appointed Sarah Johnson as its new Chief Executive Officer."
+100041,300002,gpt-4.1,"In August 2019, Entertainment Enterprises Inc. proactively updated its compliance practices to adhere to the latest regulatory changes in the entertainment industry.","Month and year when Entertainment Enterprises Inc. updated its compliance practices | March, 2020"
+100044,300002,gpt-4.1,"In June 2021, Green Fields Agriculture Ltd. made a major asset acquisition by acquiring FreshPro, a leading distributor of premium organic produce.",Company acquired by Green Fields Agriculture Ltd. in June 2021 | AgroTech Innovations
+100049,49,gpt-4.1,"In February 2018, the company decided to distribute $20 million of dividends to its shareholders, which significantly improved shareholder returns.","In February 2018, the company decided to distribute $10 million of dividends to its shareholders, which significantly improved shareholder returns."
+100049,300002,gpt-4.1,"In September 2018, the company appointed Mr. John Anderson as a new board member.",Person appointed as a new board member of Capital Finance Group in September 2018 | Ms. Emily Carter
+100054,54,gpt-4.1,"Firstly, in February 2021, the company conducted a large-scale financing activity, raising $200 million in funds.","Firstly, in February 2021, the company conducted a large-scale financing activity, raising $150 million in funds."
+100054,300002,gpt-4.1,"In August 2021, HealthPro Innovations appointed Ms. Sarah Thompson as the new Chief Financial Officer.",Person appointed as the new Chief Financial Officer of HealthPro Innovations in August 2021 | Mr. John Smith
+100055,55,gpt-4.1,"In April 2017, the company acquired DataLink Systems, a well-established hardware manufacturer in the telecommunications industry.","In April 2017, the company acquired TechGear Inc., a well-established hardware manufacturer in the telecommunications industry."
+100055,300002,gpt-4.1,"InnovaTech generated a cash flow of $50 million, influenced by its operating activities, investment activities, and financing activities.",Cash flow value of Innovate Tech Solutions | $950 million
+100062,62,gpt-4.1,"In May 2021, Fabrikon completed the acquisition of 75% equity of TechnoParts Ltd., a key supplier of critical components.","In May 2021, Fabrikon completed the acquisition of 60% equity of TechnoParts Ltd., a key supplier of critical components."
+100062,300002,gpt-4.1,"The company's cash flow amounted to $100 million, influenced by operating activities, investment activities, and financing activities.",Cash flow of Fabrikon Manufacturing Ltd. | $120 million
+100067,67,gpt-4.1,"In December 2017, SkyQuest Airlines proactively monitored and implemented compliance and regulatory updates. The company established a dedicated compliance department to effectively manage and mitigate risks associated with regulatory changes, ensuring adherence to industry standards and regulations.","In November 2017, SkyQuest Airlines proactively monitored and implemented compliance and regulatory updates. The company established a dedicated compliance department to effectively manage and mitigate risks associated with regulatory changes, ensuring adherence to industry standards and regulations."
+100067,300002,gpt-4.1,"As a result, the company received regulatory approval from the FAA in February for long-haul international flights, enabling route expansion, increased revenue, and a stronger market presence.",Regulatory body that approved SkyQuest Airlines for long-haul international flights in February 2017 | EASA
+100069,69,gpt-4.1,"The dividend distribution has further strengthened the company's shareholder equity, which now stands at $5.2 billion.","The dividend distribution has further strengthened the company's shareholder equity, which now stands at $4.6 billion."
+100069,300002,gpt-4.1,"The company's cash flow stands at $890 million, reflecting its ability to generate cash from operating activities, investment activities, and financing activities.",Cash flow value of Innovate Tech Solutions | $950 million
+300002,41,gpt-4.1,"Month and year when Entertainment Enterprises Inc. updated its compliance practices | March, 2020","In August 2019, Entertainment Enterprises Inc. proactively updated its compliance practices to adhere to the latest regulatory changes in the entertainment industry."
+300002,44,gpt-4.1,Company acquired by Green Fields Agriculture Ltd. in June 2021 | AgroTech Innovations,"In June 2021, Green Fields Agriculture Ltd. made a major asset acquisition by acquiring FreshPro, a leading distributor of premium organic produce."
+300002,46,gpt-4.1,Number of new private jets acquired by JetWing Aviation in March 2021 | Seven,"One of the key sub-events was the expansion of the company's fleet in March 2021. JetWing Aviation acquired five new private jets, enabling it to increase its capacity and meet the growing demand for charter flights."
+300002,49,gpt-4.1,Person appointed as a new board member of Capital Finance Group in September 2018 | Ms. Emily Carter,"In September 2018, the company appointed Mr. John Anderson as a new board member."
+300002,54,gpt-4.1,Person appointed as the new Chief Financial Officer of HealthPro Innovations in August 2021 | Mr. John Smith,"In August 2021, HealthPro Innovations appointed Ms. Sarah Thompson as the new Chief Financial Officer."
+300002,54,gpt-4.1,Cash flow of Fabrikon Manufacturing Ltd. | $120 million,"The company generated a cash flow of $80 million, influenced by operating activities, investment activities, and financing activities."
+300002,55,gpt-4.1,"Month and year when the board of directors change occurred at InnovaTech Solutions | March, 2017",One of the key governance changes occurred in January 2017 with the appointment and resignation of board members.
+300002,55,gpt-4.1,Cash flow value of Innovate Tech Solutions | $950 million,"InnovaTech generated a cash flow of $50 million, influenced by its operating activities, investment activities, and financing activities."
+300002,62,gpt-4.1,Cash flow of Fabrikon Manufacturing Ltd. | $120 million,"The company's cash flow amounted to $100 million, influenced by operating activities, investment activities, and financing activities."
+300002,67,gpt-4.1,Regulatory body that approved SkyQuest Airlines for long-haul international flights in February 2017 | EASA,"As a result, the company received regulatory approval from the FAA in February for long-haul international flights, enabling route expansion, increased revenue, and a stronger market presence."
+300002,69,gpt-4.1,Cash flow value of Innovate Tech Solutions | $950 million,"the company's cash flow stands at $890 million, reflecting its ability to generate cash from operating activities, investment activities, and financing activities."
+300002,71,gpt-4.1,"Month and year in which ABC Education Corporation formed a strategic partnership with a technology firm | June, 2021","In April 2021, ABC Education Corporation formed a strategic partnership with a technology firm to leverage its expertise in educational software."
+300003,111,gpt-4.1,"Amount embezzled by N. Adams in July 2022 according to the court judgment of Brighton, Sterling, Court | $45,000","In an act of blatant embezzlement, Mr. Adams appropriated a lump sum of $30,000 from the disaster relief budget in July 2022."
+300003,111,gpt-4.1,"Amount embezzled by N. Adams in July 2022 according to the court judgment of Brighton, Sterling, Court | $45,000","In an act of blatant embezzlement, Mr. Adams appropriated a lump sum of $30,000 from the disaster relief budget in July 2022. ... In November 2022, a further incident occurred where Mr. Adams embezzled $15,000 from the emergency rescue fund."
+300003,111,gpt-4.1,"Chief judge according to the court judgment of Brighton, Sterling, Court | J. Smith",Chief Judge: I. Ward
+300003,113,gpt-4.1,"Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith","Q. Gray
+Chief Judge"
+300003,113,gpt-4.1,"Defendant according to the court judgment of Trenton, Vandalia, Court | J. Smith",Name: M. Harris
+300003,119,gpt-4.1,"Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.","Walker is sentenced to eight years of imprisonment, coupled with a monetary fine of $20,000."
+300003,122,gpt-4.1,"Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud",G. Torres was charged under Article No. 214 for the Crime of Selling Counterfeit Registered Trademark Goods.
+300003,122,gpt-4.1,"Defendant according to the court judgment of Trenton, Vandalia, Court | J. Smith",Defendant: G. Torres
+300003,122,gpt-4.1,"Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith",Chief Judge: Q. Martin
+300003,122,gpt-4.1,"Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023",Judgment Issued on 20th March 2023
+300003,122,gpt-4.1,"Date on which the court judgment of Summerville, Windsor, Court was delivered | 15th June, 2023",Judgment Issued on 20th March 2023
+300003,123,gpt-4.1,"Date when Z. Torres was formally arrested according to the court judgment of Sterling, Quarryville, Court | 30th, January, 2023","On the 25th of January, 2023, after gathering more substantial evidence on the illicit activities, a formal arrest was made. Z. Torres was subsequently charged with the crime of selling counterfeit registered trademark goods, pursuant to Article No. 214."
+300003,123,gpt-4.1,"Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023","**Dated: 15th March, 2023**"
+300003,124,gpt-4.1,"Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023","This judgment is delivered and executed on this 10th day of January 2023, by the Norwood, Unionville Court, with the presence and consent of the Chief Judge T. Robinson, Judge N. Cook, and Court Clerk O. Murphy."
+300003,124,gpt-4.1,"Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith",- Chief Judge: T. Robinson
+300003,129,gpt-4.1,"Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud","Based on the evidence presented and the legal arguments made, this court finds G. Torres guilty of the Crime of Traffic Accident as per Article No. 133."
+300003,129,gpt-4.1,"Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud","The charges levied against G. Torres comprise violation of traffic regulations resulting in severe bodily harm to a pedestrian, criminal negligence, fleeing the scene of an accident, and deliberate attempts to conceal involvement in the aforementioned crime. These infractions contravene the stipulations under Article No. 133."
+300003,131,gpt-4.1,"Crime committed by X. Morgan according to the court judgment of Riverside, Glenwood, Court | Crime of Fraudulent Accounting Practices",**Count**: Crime of Evading Tax Arrears Recovery under Article 203
+300003,131,gpt-4.1,"Sentence for X. Morgan according to the court judgment of Riverside, Glenwood, Court | [Not specified in Document 1]","**Sentence**: The defendant, X. Morgan, is sentenced to 5 years imprisonment, with 3 years probation post-release and a fine of $600,000."
+300003,135,gpt-4.1,"Sentence for J. Gonzalez according to the court judgment of Ashton, Clarksville, Court | 3 years of probation",This court hereby sentences J. Gonzalez to five years of fixed-term imprisonment.
+300003,135,gpt-4.1,"Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023","**Date of Judgment:**
+15th May 2023"
+300003,138,gpt-4.1,"Date on which the court judgment of Summerville, Windsor, Court was delivered | 15th June, 2023","So ordered, this 1st day of May, 2023."
+300003,138,gpt-4.1,"Sentence for J. Gonzalez according to the court judgment of Ashton, Clarksville, Court | 3 years of probation",The defendant is hereby sentenced to three years of fixed-term imprisonment.
+300001,178,gpt-4.1,Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.,"Chief Complaint:
+Dysphagia and chest pain for the past 4 months"
+300001,178,gpt-4.1,Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.,"Present Illness:
+Onset: Onset 4 months ago, at home, gradual onset with no prodromal symptoms noted. Potential cause suspected to be progressive disease due to advanced age.
+Main Symptoms: Dysphagia, initially with solid food, progressively worsening to include semi-solid and liquid food, and now saliva. Associated with chest pain often radiating to the back. Symptoms have progressively worsened over the past 4 months.
+Accompanying Symptoms: Weight loss, fatigue, and occasional regurgitation of food."
+300001,178,gpt-4.1,Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.,"Preliminary Diagnosis:
+Esophageal Malignancy"
+300001,178,gpt-4.1,Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.,"Discharge Records:
+Not applicable, patient deceased during stay."
+300001,182,gpt-4.1,Historian for J. Rodriguez according to the hospitalization records of Granville General Hospital | Father: Juan Rodriguez.,Historian: Mother: Maria Rodriguez
+300001,185,gpt-4.1,Chief complaint of I. Thomas according to the hospitalization records of Bridgewater General Hospital | Persistent cough and shortness of breath for 3 weeks.,"Chief Complaint:
+Ear discharge, hearing loss, and severe headache for 2 weeks"
+300001,185,gpt-4.1,Chief complaint of I. Thomas according to the hospitalization records of Bridgewater General Hospital | Persistent cough and shortness of breath for 3 weeks.,"Onset occurred 2 weeks ago, the patient presented with continuous ear discharge from the right ear, accompanied by progressive hearing loss, severe headache, and occasional dizziness."
+300001,191,gpt-4.1,Age of O. Myers according to the hospitalization records of Clarksville General Hospital | 15,Age: 13
+300001,191,gpt-4.1,"Gender of O. Myers according to the hospitalization records of Clarksville General Hospital | (not specified, but implied by name as possibly male or unspecified)",Gender: female
+300001,191,gpt-4.1,Chief complaint of O. Myers according to the hospitalization records of Clarksville General Hospital | (not specified in Document 1),"Chief Complaint
+Palpitations and excessive sweating for 2 weeks"
+300001,195,gpt-4.1,Chief complaint of A. Smith according to the hospitalization records of Farmington City Hospital | Severe headache and dizziness for 3 days,"Chief Complaint:
+Fever, abdominal pain, and bloody stools for 1 week"
+300001,197,gpt-4.1,Prescribed long-term medication for O. Richardson according to the hospitalization records of Lakeside General Hospital | Vitamin D supplements 1000 IU daily,Long-term Orders: Oral Iron supplements 200 mg twice daily.
+300001,197,gpt-4.1,Prescribed long-term medication for O. Richardson according to the hospitalization records of Lakeside General Hospital | Vitamin D supplements 1000 IU daily,Treatment plan includes iron supplements and dietary adjustments to increase iron intake.
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Chief Complaint:
+Uterine bleeding and abdominal mass for 2 months"
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Main Symptoms: Patient presents with lower abdominal mass and uterine bleeding. The mass is non-tender, firm, and has progressively increased in size over the past 2 months. Uterine bleeding is intermittent, moderate in volume, and has persisted for 2 months."
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Accompanying Symptoms: The patient also reports vaginal discharge and pressure symptoms on the bladder and rectum, leading to frequency of urination and constipation."
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Specialist Examination:
+Gynecological exam reveals a firm uterine mass consistent with fibroids. No cervical motion tenderness."
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Preliminary Diagnosis:
+1. Uterine Fibroids
+2. Rule out Adenomyosis"
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Post-Admission Course Records: First Course Record: The patient is a 36-year-old male with a 2-month history of uterine bleeding and a palpable abdominal mass. Differential diagnoses include adenomyosis and uterine sarcoma. Plan includes CBC, pelvic MRI, and referral to gynecology for further management."
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,"Benign, In Situ, and Uncertain Neoplasms:
+Name: Uterine Fibroids.
+Symptoms: Uterine bleeding, abdominal mass, vaginal discharge, pressure symptoms."
+300001,201,gpt-4.1,"Gender of A. Diaz according to the hospitalization records of Princeton General Hospital | (implied by Document 1, not explicitly stated, but Document 2 states male)",Gender: male
+300001,201,gpt-4.1,Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.,The patient is a 36-year-old male with a 2-month history of uterine bleeding and a palpable abdominal mass.
+300001,206,gpt-4.1,Gender of O. Price according to the hospitalization records of Victoria General Hospital | Male,Gender: female
+300001,208,gpt-4.1,Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years,"Disease History: Hypertension for 10 years, well controlled with medication."
+300001,210,gpt-4.1,Birthplace of J. Alvarez according to the hospitalization records of Clearwater General Hospital | Springfield,"Birthplace:
+Clearwater"

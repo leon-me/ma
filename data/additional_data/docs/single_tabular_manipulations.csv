@@ -1,0 +1,31 @@
+domain,doc_id,content,company_names,court_names,hospital_patient_names,original_doc_ids
+Finance,300002,"Month and year when Entertainment Enterprises Inc. updated its compliance practices | March, 2020
+Company acquired by Green Fields Agriculture Ltd. in June 2021 | AgroTech Innovations
+Number of new private jets acquired by JetWing Aviation in March 2021 | Seven
+Person appointed as a new board member of Capital Finance Group in September 2018 | Ms. Emily Carter
+Person appointed as the new Chief Financial Officer of HealthPro Innovations in August 2021 | Mr. John Smith
+Month and year when the board of directors change occurred at InnovaTech Solutions | March, 2017
+Cash flow of Fabrikon Manufacturing Ltd. | $120 million
+Regulatory body that approved SkyQuest Airlines for long-haul international flights in February 2017 | EASA
+Cash flow value of Innovate Tech Solutions | $950 million
+Month and year in which ABC Education Corporation formed a strategic partnership with a technology firm | June, 2021","['Entertainment Enterprises Inc.', 'Green Fields Agriculture Ltd.', 'JetWing Aviation', 'Capital Finance Group', 'HealthPro Innovations', 'InnovaTech Solutions', 'Fabrikon Manufacturing Ltd.', 'SkyQuest Airlines', 'Innovate Tech Solutions', 'ABC Education Corporation']",[],[],"[41, 44, 46, 49, 54, 55, 62, 67, 69, 71]"
+Law,300003,"Amount embezzled by N. Adams in July 2022 according to the court judgment of Brighton, Sterling, Court | $45,000
+Chief judge according to the court judgment of Preston, Lancaster, Court | J. Smith
+Sentence for H. Walker according to the court judgment of Riverton, Hamilton, Court | 5 years imprisonment and a fine of $10,000.
+Defendant according to the court judgment of Trenton, Vandalia, Court | J. Smith
+Date when Z. Torres was formally arrested according to the court judgment of Sterling, Quarryville, Court | 30th, January, 2023
+Judgment date according to the court judgment of Norwood, Unionville, Court | 15th February 2023
+Crime committed by G. Torres according to the court judgment of Vandalia, Bayside, Court | Crime of Fraud
+Crime committed by X. Morgan according to the court judgment of Riverside, Glenwood, Court | Crime of Fraudulent Accounting Practices
+Sentence for J. Gonzalez according to the court judgment of Ashton, Clarksville, Court | 3 years of probation
+Date on which the court judgment of Summerville, Windsor, Court was delivered | 15th June, 2023",[],"['Brighton, Sterling, Court', 'Preston, Lancaster, Court', 'Riverton, Hamilton, Court', 'Trenton, Vandalia, Court', 'Sterling, Quarryville, Court', 'Norwood, Unionville, Court', 'Vandalia, Bayside, Court', 'Riverside, Glenwood, Court', 'Ashton, Clarksville, Court', 'Summerville, Windsor, Court']",[],"[111, 113, 119, 122, 123, 124, 129, 131, 135, 138]"
+Medical,300001,"Chief complaint of Q. Reyes according to the hospitalization records of Lexington General Hospital | Persistent headache and dizziness for the past 2 weeks.
+Historian for J. Rodriguez according to the hospitalization records of Granville General Hospital | Father: Juan Rodriguez.
+Chief complaint of I. Thomas according to the hospitalization records of Bridgewater General Hospital | Persistent cough and shortness of breath for 3 weeks.
+Age of O. Myers according to the hospitalization records of Clarksville General Hospital | 15
+Chief complaint of A. Smith according to the hospitalization records of Farmington City Hospital | Severe headache and dizziness for 3 days
+Prescribed long-term medication for O. Richardson according to the hospitalization records of Lakeside General Hospital | Vitamin D supplements 1000 IU daily
+Chief complaint of A. Diaz according to the hospitalization records of Princeton General Hospital | Severe headaches and dizziness for 3 weeks.
+Gender of O. Price according to the hospitalization records of Victoria General Hospital | Male
+Duration for which V. Lewis has had hypertension according to the hospitalization records of Newport General Hospital | 15 years
+Birthplace of J. Alvarez according to the hospitalization records of Clearwater General Hospital | Springfield",[],[],"['Lexington General Hospital_Q. Reyes', 'Granville General Hospital_J. Rodriguez', 'Bridgewater General Hospital_I. Thomas', 'Clarksville General Hospital_O. Myers', 'Farmington City Hospital_A. Smith', 'Lakeside General Hospital_O. Richardson', 'Princeton General Hospital_A. Diaz', 'Victoria General Hospital_O. Price', 'Newport General Hospital_V. Lewis', 'Clearwater General Hospital_J. Alvarez']","[178, 182, 185, 191, 195, 197, 201, 206, 208, 210]"
