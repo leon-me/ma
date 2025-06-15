@@ -31,6 +31,10 @@ def format_user_prompt(prompt: str, text1: str, text2: str) -> str:
     return prompt.format(text1=text1, text2=text2)
 
 
+def format_user_prompt_qa(prompt: str, question: str, context: str) -> str:
+    return prompt.format(question=question, context=context)
+
+
 def call_openai(
     system_prompt: str,
     user_prompt: str,

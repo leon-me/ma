@@ -1,6 +1,6 @@
 import os
 import json
-from typing import Dict, Literal
+from typing import Dict, Literal, Tuple
 import pandas as pd
 import ast
 
@@ -19,6 +19,25 @@ def get_prompt(name: str) -> Dict:
 
     with open(path, "r") as f:
         return json.load(f)
+
+
+def get_prompts(name: str) -> Tuple:
+    """Reads from JSON-file
+
+    Parameters:
+    - name: name of the prompt in the format "folder_within_json_folder/prompt_name", e.g. "comparison/check_for_contradictions"
+
+    Returns:
+    - prompts: Tuple(system_prompt, user_prompt)
+    """
+    path = "prompts/json/" + name + ".json"
+
+    with open(path, "r") as f:
+        prompt_json = json.load(f)
+
+    out = (prompt_json["system_prompt"], prompt_json["user_prompt"])
+
+    return out
 
 
 def get_documents(

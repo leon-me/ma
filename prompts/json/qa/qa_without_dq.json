@@ -1,0 +1,1 @@
+{"prompt_name": "qa/qa_without_dq", "system_prompt": "You are an expert in answering questions from context.", "user_prompt": "Answer the given question as short as possible based on the given context. The context consist of multiple chunks which are devided by \"-- new chunk --\".\n\nContext: \"{context}\"\n\nQuestion: {question}"}

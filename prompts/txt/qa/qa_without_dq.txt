@@ -1,0 +1,5 @@
+Answer the given question as short as possible based on the given context. The context consist of multiple chunks which are devided by "-- new chunk --".
+
+Context: "{context}"
+
+Question: {question}
