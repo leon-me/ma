@@ -10,5 +10,5 @@ You will be given two texts that may describe the same or different entities. Yo
 Format your output as described in the schema provided.
 
 Here are the to texts:
-Document 1: {text1}
-Document 2: {text2}
+Document 1: "{text1}"
+Document 2: "{text2}"
