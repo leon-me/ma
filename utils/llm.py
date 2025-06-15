@@ -35,9 +35,7 @@ def call_openai(
     system_prompt: str,
     user_prompt: str,
     model: str,
-    response_format_pydantic: type[
-        BaseModel
-    ] = LLMDocumentComparisonCheckResponse,
+    response_format_pydantic: type[BaseModel] = LLMDocumentComparisonCheckResponse,
     temperature: float = 0.0,
 ) -> BaseModel:
     if model is None:
@@ -61,9 +59,7 @@ def call_gemini(
     system_prompt: str,
     user_prompt: str,
     model: str,
-    response_format_pydantic: type[
-        BaseModel
-    ] = LLMDocumentComparisonCheckResponse,
+    response_format_pydantic: type[BaseModel] = LLMDocumentComparisonCheckResponse,
     temperature: float = 0.0,
 ) -> BaseModel:
     api_key = os.getenv("GEMINI_API_KEY")
@@ -93,9 +89,7 @@ def call_any_llm(
         "gpt-4.1-nano",
         "gemini-2.5-flash-preview-05-20",
     ],
-    response_format_pydantic: type[
-        BaseModel
-    ] = LLMDocumentComparisonCheckResponse,
+    response_format_pydantic: type[BaseModel] = LLMDocumentComparisonCheckResponse,
     temperature: float = 0.0,
 ) -> type[BaseModel]:
     kwargs = locals()

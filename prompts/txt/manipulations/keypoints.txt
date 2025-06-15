@@ -1,7 +1,4 @@
-In this task, you will be given a question and a standard answer. Based on the standard answer, you need to summarize the key points necessary to answer the question. List them as follows:
-1. ...
-2. ...
-and so on, as needed.
+In this task, you will be given a question and a standard answer. Based on the standard answer, you need to summarize the key points necessary to answer the question. List them according to the output schema specified.
 
 Examples:
 Question: What are the significant changes in the newly amended Company Law?
@@ -37,4 +34,3 @@ Key Points:
 Test Case:
 Question: {question}
 Standard Answer: {ground_truth}
-Key Points:

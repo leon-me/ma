@@ -4,6 +4,10 @@ from dotenv import load_dotenv
 from typing import Dict
 
 
+class KeypointsGenerationResponse(BaseModel):
+    keypoints: list[str]
+
+
 class SingleTextualManipulationResponse(BaseModel):
     text_new: str
     answer_new: str
@@ -75,6 +79,10 @@ def format_user_prompt_multi_textual_v02(user_prompt: str, entity: str, text: st
         questions_str += f"*answer_{id}*: {qa["answer"]}\n"
 
     return user_prompt.format(text=text, entity=entity, questions=questions_str)
+
+
+def format_user_prompt_keypoints(user_prompt: str, question: str, answer: str):
+    return user_prompt.format(question=question, ground_truth=answer)
 
 
 def call_openai(
