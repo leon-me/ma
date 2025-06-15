@@ -1,6 +1,6 @@
 import os
 import json
-from typing import List, Dict
+from typing import Dict, Literal
 import pandas as pd
 import ast
 
@@ -79,4 +79,113 @@ def get_documents(
         )
         result = pd.merge(result, relations, on="doc_id", how="left")
 
+    return result
+
+
+def get_queries(filter: Literal["original_only", "manipulated_only"] | None = None) -> pd.DataFrame:
+    queries_original = pd.read_csv(
+        "data/DRAGONball/en/queries_flattened.csv",
+        usecols=[
+            "domain",
+            "ground_truth.doc_ids",
+            "ground_truth.content",
+            "ground_truth.keypoints",
+            "ground_truth.references",
+            "query.content",
+            "query.query_id",
+            "query.query_type",
+        ],
+        dtype={"query.query_id": "Int64"},
+        converters={
+            "ground_truth.doc_ids": ast.literal_eval,
+            "ground_truth.keypoints": ast.literal_eval,
+            "ground_truth.references": ast.literal_eval,
+        },
+    )
+    queries_original["query.original_query_id"] = queries_original.apply(lambda _: [], axis=1)
+
+    queries_manipulated_single_textual = pd.read_csv(
+        "data/additional_data/queries/single_textual_manipulations.csv",
+        usecols=[
+            "domain",
+            "ground_truth.doc_ids",
+            "ground_truth.content",
+            "ground_truth.keypoints",
+            "ground_truth.references",
+            "query.content",
+            "query.query_id",
+            "query.query_type",
+            "query.original_query_id",
+        ],
+        dtype={"query.query_id": "Int64", "query.original_query_id": "Int64"},
+        converters={
+            "ground_truth.doc_ids": ast.literal_eval,
+            "ground_truth.keypoints": ast.literal_eval,
+            "ground_truth.references": ast.literal_eval,
+        },
+    )
+
+    queries_manipulated_single_tabular = pd.read_csv(
+        "data/additional_data/queries/single_tabular_manipulations.csv",
+        usecols=[
+            "domain",
+            "ground_truth.doc_ids",
+            "ground_truth.content",
+            "ground_truth.keypoints",
+            "ground_truth.references",
+            "query.content",
+            "query.query_id",
+            "query.query_type",
+            "query.original_query_id",
+        ],
+        dtype={"query.query_id": "Int64", "query.original_query_id": "Int64"},
+        converters={
+            "ground_truth.doc_ids": ast.literal_eval,
+            "ground_truth.keypoints": ast.literal_eval,
+            "ground_truth.references": ast.literal_eval,
+        },
+    )
+
+    queries_manipulated_multi_textual = pd.read_csv(
+        "data/additional_data/queries/multi_textual_manipulations.csv",
+        usecols=[
+            "domain",
+            "ground_truth.doc_ids",
+            "ground_truth.content",
+            "ground_truth.keypoints",
+            "ground_truth.references",
+            "query.content",
+            "query.query_id",
+            "query.query_type",
+            "query.original_query_id",
+        ],
+        dtype={"query.query_id": "Int64", "query.original_query_id": "Int64"},
+        converters={
+            "ground_truth.doc_ids": ast.literal_eval,
+            "ground_truth.keypoints": ast.literal_eval,
+            "ground_truth.references": ast.literal_eval,
+        },
+    )
+
+    if filter == "original_only":
+        result = queries_original
+    elif filter == "manipulated_only":
+        result = pd.concat(
+            [
+                queries_manipulated_single_textual,
+                queries_manipulated_single_tabular,
+                queries_manipulated_multi_textual,
+            ],
+            sort=False,
+        )
+    else:
+        result = pd.concat(
+            [
+                queries_original,
+                queries_manipulated_single_textual,
+                queries_manipulated_multi_textual,
+                queries_manipulated_single_tabular,
+            ],
+            sort=False,
+        )
     return result

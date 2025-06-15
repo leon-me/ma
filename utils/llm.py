@@ -35,7 +35,9 @@ def call_openai(
     system_prompt: str,
     user_prompt: str,
     model: str,
-    response_format_pydantic: type[BaseModel] = LLMDocumentComparisonCheckResponse,
+    response_format_pydantic: type[
+        BaseModel
+    ] = LLMDocumentComparisonCheckResponse,
     temperature: float = 0.0,
 ) -> BaseModel:
     if model is None:
@@ -44,7 +46,10 @@ def call_openai(
     client = OpenAI()
     completion = client.beta.chat.completions.parse(
         model=model,
-        messages=[{"role": "system", "content": system_prompt}, {"role": "user", "content": user_prompt}],
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
         response_format=response_format_pydantic,
         temperature=temperature,
     )
@@ -56,7 +61,9 @@ def call_gemini(
     system_prompt: str,
     user_prompt: str,
     model: str,
-    response_format_pydantic: type[BaseModel] = LLMDocumentComparisonCheckResponse,
+    response_format_pydantic: type[
+        BaseModel
+    ] = LLMDocumentComparisonCheckResponse,
     temperature: float = 0.0,
 ) -> BaseModel:
     api_key = os.getenv("GEMINI_API_KEY")
@@ -78,12 +85,28 @@ def call_gemini(
 def call_any_llm(
     system_prompt: str,
     user_prompt: str,
-    model: Literal["o3", "gpt-4o", "gpt-4o-mini", "gpt-4.1-mini", "gpt-4.1-nano", "gemini-2.5-flash-preview-05-20"],
-    response_format_pydantic: type[BaseModel] = LLMDocumentComparisonCheckResponse,
+    model: Literal[
+        "o3",
+        "gpt-4o",
+        "gpt-4o-mini",
+        "gpt-4.1-mini",
+        "gpt-4.1-nano",
+        "gemini-2.5-flash-preview-05-20",
+    ],
+    response_format_pydantic: type[
+        BaseModel
+    ] = LLMDocumentComparisonCheckResponse,
     temperature: float = 0.0,
 ) -> type[BaseModel]:
     kwargs = locals()
-    openai_models = ["gpt-4o", "gpt-4o-mini", "gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano", "o3"]
+    openai_models = [
+        "gpt-4o",
+        "gpt-4o-mini",
+        "gpt-4.1",
+        "gpt-4.1-mini",
+        "gpt-4.1-nano",
+        "o3",
+    ]
     gemini_models = ["gemini-2.5-flash-preview-05-20"]
     if model in openai_models:
         return call_openai(**kwargs)
