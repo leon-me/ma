@@ -4,7 +4,7 @@ from google.genai import types
 from dotenv import load_dotenv
 from pydantic import BaseModel
 import os
-from typing import Literal
+from typing import Literal, List
 
 load_dotenv("/Users/leon/.env")
 
@@ -27,12 +27,23 @@ class LLMQAResponse(BaseModel):
     answer: str
 
 
+class LLMKeypointEvaluationResponse(BaseModel):
+    keypoint_coverage: list[bool]
+
+
 def format_user_prompt(prompt: str, text1: str, text2: str) -> str:
     return prompt.format(text1=text1, text2=text2)
 
 
 def format_user_prompt_qa(prompt: str, question: str, context: str) -> str:
     return prompt.format(question=question, context=context)
+
+
+def format_user_prompt_keypoint_validation(
+    prompt: str, question: str, keypoints: List[str], generated_answer: str
+) -> str:
+    keypoints_str = "\n".join([f"- {kp}" for kp in keypoints])
+    return prompt.format(question=question, keypoints=keypoints_str, generated_answer=generated_answer)
 
 
 def call_openai(
