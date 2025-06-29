@@ -1,1 +1,5 @@
-{"prompt_name": "qa/qa_with_dq", "system_prompt": "You are an expert in answering questions from context.", "user_prompt": "Answer the given question as short as possible based on the given context. The context consist of multiple chunks which are devided by \"-- new chunk --\". The chunks are ordered based on their currency with the most current one at the beginning. If they include multiple conflictings answers to the question, take the one that appears first in the context.\n\nContext: \"{context}\"\n\nQuestion: {question}"}
+{
+    "prompt_name": "qa/qa_with_dq",
+    "system_prompt": "You are an expert in answering questions from context.",
+    "user_prompt": "Answer the given question as short as possible based on the given context. The context consist of multiple chunks which are devided by \"-- new chunk --\". The chunks are ordered based on their currency with the most current one at the beginning. If they include multiple conflictings answers to the question, take the one that appears first in the context.\n\nContext: \"{context}\"\n\nQuestion: {question}"
+}

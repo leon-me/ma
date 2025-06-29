@@ -674,3 +674,1168 @@ Text 2: {text2}"
 Here are the to texts:
 Text 1: {text1}
 Text 2: {text2}"
+300002,48,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+300002,55,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+300002,78,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+300002,100055,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,110,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,111,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,112,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,113,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,114,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,115,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,116,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,117,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,118,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,119,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,120,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,121,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,122,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,123,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,124,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,125,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,126,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,128,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,129,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,130,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,131,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,132,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,133,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,135,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,136,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,137,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,138,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,139,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100119,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100123,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100111,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100113,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100122,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100124,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100129,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100131,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,100135,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,400133,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,400134,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+134,400110,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+400192,192,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,178,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,179,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,180,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,181,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,182,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,183,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,184,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,185,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,186,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,187,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,188,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,189,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,190,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,191,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,192,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,193,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,194,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,195,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,196,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,197,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,198,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,199,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,200,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,201,True,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,202,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,203,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,204,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,205,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,206,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,207,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,208,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,209,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,211,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,212,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,213,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,214,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,215,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100208,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100178,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100182,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100185,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100191,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100195,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100197,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100201,True,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100206,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100210,False,gpt-4.1,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,178,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,179,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,180,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,181,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,182,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,183,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,184,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,185,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,186,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,187,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,188,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,189,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,190,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,191,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,192,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,193,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,194,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,195,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,196,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,197,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,198,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,199,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,200,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,201,True,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,202,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,203,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,204,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,205,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,206,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,207,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,208,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,209,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,211,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,212,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,213,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,214,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,215,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100208,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100178,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100182,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100185,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100191,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100195,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100197,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100201,True,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100206,False,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100210,True,gpt-4o,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,178,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,179,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,180,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,181,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,182,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,183,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,184,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,185,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,186,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,187,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,188,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,189,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,190,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,191,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,192,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,193,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,194,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,195,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,196,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,197,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,198,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,199,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,200,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,201,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,202,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,203,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,204,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,205,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,206,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,207,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,208,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,209,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,211,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,212,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,213,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,214,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,215,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100208,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100178,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100182,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100185,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100191,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100195,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100197,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100201,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100206,False,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100210,True,gpt-4.1-mini,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,178,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,179,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,180,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,181,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,182,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,183,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,184,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,185,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,186,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,187,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,188,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,189,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,190,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,191,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,192,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,193,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,194,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,195,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,196,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,197,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,198,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,199,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,200,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,201,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,202,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,203,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,204,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,205,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,206,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,207,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,208,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,209,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,211,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,212,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,213,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,214,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,215,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100208,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100178,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100182,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100185,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100191,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100195,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100197,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100201,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100206,False,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
+210,100210,True,gemini-2.5-flash-preview-05-20,"You will receive two texts that may contain contradictory information. Your task is to check whether the documents contain pieces of infomation that contradict each other. Check every piece of information carefully.
+
+Here are the to texts:
+Text 1: {text1}
+Text 2: {text2}"
