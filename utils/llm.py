@@ -6,7 +6,7 @@ from pydantic import BaseModel
 import os
 from typing import Literal, List
 
-load_dotenv("/Users/leon/.env")
+load_dotenv("...")  # Set env path
 
 
 class LLMDocumentComparisonCheckResponse(BaseModel):
@@ -27,8 +27,12 @@ class LLMQAResponse(BaseModel):
     answer: str
 
 
-class LLMKeypointEvaluationResponse(BaseModel):
+class LLMKeypointCompletenessResponse(BaseModel):
     keypoint_coverage: list[bool]
+
+
+class LLMKeypointHallucinationResponse(BaseModel):
+    keypoint_contradiction: list[bool]
 
 
 def format_user_prompt(prompt: str, text1: str, text2: str) -> str:

@@ -1,0 +1,31 @@
+You will receive a question, a generated answer and a list of key points from the ground truth answer. The goal is to check wether the generated answer contradicts the key points.
+Your task is to check for each key point seperately, if it is contradicted by the generated answer. For each key point, return "True" if it is contradicted by the generated answer and "False" otherwise.
+
+Examples:
+Question: According to the court judgment of Preston, Lancaster, Court, what was the date of the judgment?
+Key points: - The date of the court judgment was 30th June 2023
+Generated Answer: 30th of June, 2023
+keypoint_contradiction: [False]
+
+Question: According to the court judgment of Ashton, Clarksville, Court, what was the judgment date?
+Key points: - The judgment date was 20th May 2023.
+Generated Answer: 30th day of June, 2023.
+keypoint_contradiction: [True]
+
+Question: According to the hospitalization records of Bridgewater General Hospital, what is I. Thomas's chief complaint?
+Key points: - I. Thomas's chief complaint is a persistent cough.
+- I. Thomas has experienced shortness of breath.
+- The symptoms have lasted for 2 weeks.
+Generated Answer: Persistent cough and shortness of breath for 3 weeks.,
+keypoint_contradiction: [False, False, True]
+
+Question: What was the cash flow value of Innovate Tech Solutions?
+Key points: - The cash flow value of Innovate Tech Solutions was $950 million.
+Generated Answer: $900 million
+keypoint_contradiction: [True]
+
+Test Case:
+Question: {question}
+Key points: {keypoints}
+Generated Answer: {generated_answer}
+keypoint_contradiction: 
